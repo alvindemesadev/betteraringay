@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 import { useQueryState } from 'nuqs';
 import { Search as SearchIcon } from 'lucide-react';
 import { searchClient, SEARCH_INDEX } from '../lib/meilisearch';

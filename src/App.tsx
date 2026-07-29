@@ -9,7 +9,7 @@ import Document from './pages/Document';
 import Government from './pages/Government';
 import Search from './pages/Search';
 import { isMeilisearchEnabled } from './lib/meilisearch';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router';
 
 function App() {
   return (

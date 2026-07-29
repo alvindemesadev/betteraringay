@@ -7,7 +7,7 @@ import {
   CheckCircle2,
 } from 'lucide-react';
 import { footerNavigation } from '../../data/navigation';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router';
 import { useTranslation } from 'react-i18next';
 
 const Footer: React.FC = () => {
