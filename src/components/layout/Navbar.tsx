@@ -12,6 +12,7 @@ import type { LanguageType } from '../../types/index';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { LANGUAGES } from '../../i18n/languages';
+import { isMeilisearchEnabled } from '../../lib/meilisearch';
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -156,13 +157,15 @@ const Navbar: React.FC = () => {
             >
               About
             </Link>
-            <Link
-              to="/search"
-              className="flex items-center text-gray-700 hover:text-primary-600 font-medium transition-colors"
-            >
-              <Search className="h-4 w-4 mr-1" />
-              Search
-            </Link>
+            {isMeilisearchEnabled && (
+              <Link
+                to="/search"
+                className="flex items-center text-gray-700 hover:text-primary-600 font-medium transition-colors"
+              >
+                <Search className="h-4 w-4 mr-1" />
+                Search
+              </Link>
+            )}
             {/* <Link
               to="/sitemap"
               className="flex items-center text-gray-700 hover:text-primary-600 font-medium transition-colors"
@@ -236,13 +239,15 @@ const Navbar: React.FC = () => {
           >
             About
           </Link>
-          <Link
-            to="/search"
-            onClick={closeMenu}
-            className="block px-4 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-primary-500"
-          >
-            Search
-          </Link>
+          {isMeilisearchEnabled && (
+            <Link
+              to="/search"
+              onClick={closeMenu}
+              className="block px-4 py-2 text-base font-medium text-gray-700 hover:bg-gray-50 hover:text-primary-500"
+            >
+              Search
+            </Link>
+          )}
           <Link
             to="/sitemap"
             onClick={closeMenu}

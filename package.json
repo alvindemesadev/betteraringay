@@ -14,7 +14,8 @@
     "prepare": "husky",
     "convert-yaml": "node scripts/yaml-to-json.js",
     "dev:yaml": "npm run convert-yaml && npm run dev",
-    "setup": "node scripts/setup-starter-kit.js"
+    "setup": "node scripts/setup-starter-kit.js",
+    "index-content": "node scripts/index-content.mjs"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
@@ -36,6 +37,7 @@
     "i18next-http-backend": "^3.0.2",
     "js-yaml": "^4.1.0",
     "lucide-react": "^0.575.0",
+    "meilisearch": "^0.58.0",
     "nuqs": "^2.6.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
