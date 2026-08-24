@@ -109,7 +109,7 @@ const Navbar: React.FC = () => {
           </div>
 
           {/* Desktop navigation */}
-          <div className="hidden lg:flex items-center space-x-8 pr-24">
+          <div className="hidden lg:flex items-center space-x-6 flex-1 justify-center">
             {mainNavigation.map(item => (
               <div key={item.label} className="relative group">
                 <a
