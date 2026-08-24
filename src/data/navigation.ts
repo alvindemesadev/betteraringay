@@ -25,19 +25,52 @@ export const mainNavigation: NavigationItem[] = [
     label: 'Government',
     href: '/government/departments',
   },
+  {
+    label: 'Transparency',
+    href: '/government/departments/transparency',
+  },
+  {
+    label: 'Contact',
+    href: '/government/departments/executive',
+  },
 ];
 
 export const footerNavigation = {
   mainSections: [
     {
-      title: 'About',
+      title: 'Quick Links',
       links: [
-        { label: 'About the Portal', href: '/about' },
-        // { label: 'Privacy Policy', href: '/privacy' },
-        // { label: 'Terms of Use', href: '/terms' },
+        { label: 'Barangays (24)', href: '/government/departments/barangays' },
+        {
+          label: 'History & Culture',
+          href: '/government/departments/history-culture',
+        },
+        { label: 'Sitemap', href: '/sitemap' },
         { label: 'Accessibility', href: '/accessibility' },
-        { label: 'Contact Us', href: '/about' },
-        { label: 'Community Discord', href: '/discord' },
+        { label: 'Privacy Policy', href: '/privacy' },
+        { label: 'Terms of Use', href: '/terms' },
+      ],
+    },
+    {
+      title: 'Resources',
+      links: [
+        { label: 'Open Data Philippines', href: 'https://data.gov.ph' },
+        { label: 'Freedom of Information', href: 'https://www.foi.gov.ph' },
+        { label: 'Official LGU Aringay', href: 'https://aringay.gov.ph' },
+        {
+          label: 'Sangguniang Bayan',
+          href: '/government/departments/legislative',
+        },
+        {
+          label: 'Provincial Gov La Union',
+          href: 'https://launion.gov.ph/municipality-of-aringay/',
+        },
+        { label: 'BLGF Portal', href: 'https://blgf.gov.ph' },
+        { label: 'CMCI DTI Portal', href: 'https://cmci.dti.gov.ph' },
+        {
+          label: 'Official Gazette',
+          href: 'https://www.officialgazette.gov.ph',
+        },
       ],
     },
     {
@@ -45,28 +78,16 @@ export const footerNavigation = {
       links: [
         { label: 'All Services', href: '/services' },
         ...(servicesData.categories as Category[])
-          .slice(0, 6)
+          .slice(0, 4)
           .map(category => ({
             label: category.category,
             href: `/services/${category.slug}`,
           })),
-        { label: 'Hotlines', href: '/philippines/hotlines' },
-        { label: 'Holidays', href: '/philippines/holidays' },
-      ],
-    },
-    {
-      title: 'Government',
-      links: [
-        { label: 'Open Data', href: 'https://data.gov.ph' },
-        { label: 'Freedom of Information', href: 'https://www.foi.gov.ph' },
         {
-          label: 'Contact Center',
-          href: 'https://contactcenterngbayan.gov.ph',
+          label: 'Transparency & Budget',
+          href: '/government/departments/transparency',
         },
-        {
-          label: 'Official Gazette',
-          href: 'https://www.officialgazette.gov.ph',
-        },
+        { label: 'Contact Us', href: '/government/departments/executive' },
       ],
     },
   ],

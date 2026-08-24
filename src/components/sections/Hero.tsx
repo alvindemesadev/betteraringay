@@ -1,6 +1,7 @@
 import { useTranslation } from 'react-i18next';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
+import { Link } from 'react-router';
 
 export default function Hero() {
   const { t } = useTranslation();
@@ -31,6 +32,21 @@ export default function Hero() {
             <Text className="text-primary-50 mt-4 text-lg max-w-xl">
               {t('hero.subtitle')}
             </Text>
+            <div className="mt-6 flex flex-wrap gap-3">
+              <Link
+                to="/services"
+                className="inline-flex items-center gap-2 bg-white text-primary-700 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-50 transition"
+              >
+                Browse Services
+                <span aria-hidden>→</span>
+              </Link>
+              <Link
+                to="/government/departments/executive"
+                className="inline-flex items-center gap-2 bg-primary-800/50 backdrop-blur border border-white/20 text-white font-semibold px-6 py-3 rounded-lg hover:bg-primary-900/50 transition"
+              >
+                Contact Us
+              </Link>
+            </div>
             <div className="mt-6 flex flex-wrap gap-2 text-xs">
               <span className="bg-white/15 backdrop-blur px-3 py-1.5 rounded-full">
                 📍 16°24′N 120°21′E • Lingayen Gulf

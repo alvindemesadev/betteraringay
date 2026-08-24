@@ -110,8 +110,149 @@
 }
 
 @theme inline {
-  --font-sans: var(--font-kapwa-sans);
-  --font-mono: var(--font-kapwa-mono);
+  --font-sans: 'Inter', var(--font-kapwa-sans);
+  --font-mono: 'JetBrains Mono', var(--font-kapwa-mono);
+}
+
+/* BetterSolano-inspired overrides — Aringay */
+@theme {
+  --color-primary-600: #0032a0;
+  --color-primary-700: #002170;
+}
+
+/* Hotline Bar — red gradient, marquee on ≤1024px */
+.hotline-bar {
+  background: linear-gradient(135deg, #ff0000 0%, #cc0000 100%);
+  color: #ffffff;
+  padding: 8px 0;
+  font-size: 0.8125rem;
+  font-family: 'Inter', sans-serif;
+}
+.hotline-inner {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+.hotline-items {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.hotline-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.hotline-item:hover {
+  background: rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+.hotline-item i {
+  font-size: 0.8rem;
+}
+@media (max-width: 1024px) {
+  .hotline-bar {
+    padding: 0;
+    overflow: hidden;
+  }
+  .hotline-bar .container {
+    max-width: 100%;
+    padding: 0;
+  }
+  .hotline-inner {
+    flex-wrap: nowrap;
+    gap: 0;
+  }
+  .hotline-items {
+    flex-wrap: nowrap;
+    gap: 0;
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+  }
+  .hotline-items-track {
+    display: flex;
+    gap: 12px;
+    animation: hotlineScroll 28s linear infinite;
+    will-change: transform;
+    padding: 8px 16px;
+  }
+  .hotline-items-track:hover,
+  .hotline-items-track:focus-within {
+    animation-play-state: paused;
+  }
+  .hotline-item {
+    flex-shrink: 0;
+    font-size: 0.75rem;
+  }
+}
+@keyframes hotlineScroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Info Bar — dark navy, thin */
+.info-bar {
+  background-color: #00184d;
+  color: #ffffff;
+  padding: 6px 0;
+  font-size: 0.6875rem;
+  font-family: 'Inter', sans-serif;
+}
+.info-bar-inner {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+.info-bar-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: #ffffff;
+}
+.info-bar-item i {
+  color: #ffff00;
+  font-size: 0.75rem;
+}
+.info-bar-weather,
+.info-bar-datetime {
+  padding-left: 16px;
+  border-left: 1px solid rgba(255, 255, 255, 0.15);
+}
+@media (max-width: 767px) {
+  .info-bar-inner {
+    justify-content: center;
+    gap: 0;
+    flex-wrap: nowrap;
+  }
+  .info-bar-item {
+    font-size: 0.625rem;
+    gap: 4px;
+    white-space: nowrap;
+  }
+  .info-bar-weather,
+  .info-bar-datetime {
+    padding-left: 8px;
+    margin-left: 8px;
+  }
 }
 
 /* Checklist styling */

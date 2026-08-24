@@ -1,5 +1,7 @@
 import { NuqsAdapter } from 'nuqs/adapters/react';
 import { HelmetProvider } from 'react-helmet-async';
+import HotlineBar from './components/layout/HotlineBar';
+import InfoBar from './components/layout/InfoBar';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
 import Home from './pages/Home';
@@ -17,7 +19,9 @@ function App() {
       <Router>
         <NuqsAdapter>
           <div className="min-h-screen flex flex-col">
+            <HotlineBar />
             <Navbar />
+            <InfoBar />
             <ScrollToTop />
             <Routes>
               <Route path="/" element={<Home />} />

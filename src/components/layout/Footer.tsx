@@ -36,12 +36,17 @@ const Footer: React.FC = () => {
 
               <div>
                 <div className="font-bold">{t('site_name')}</div>
-                <div className="text-xs text-gray-400">BetterGov.ph Portal</div>
+                <div className="text-xs text-gray-400">
+                  BetterAringay.org • La Union
+                </div>
               </div>
             </div>
             <p className="text-gray-400 text-sm mb-4">
-              A community portal providing Philippine citizens, businesses, and
-              visitors with information and services.
+              Empowering the people of Aringay with transparent access to the
+              services, programs, and public funds of LGU Aringay.
+            </p>
+            <p className="text-xs text-gray-500 mb-2">
+              Cost to the People of Aringay = ₱0
             </p>
             <div className="flex space-x-4">
               {footerNavigation.socialLinks.map(link => (
@@ -77,41 +82,54 @@ const Footer: React.FC = () => {
           ))}
         </div>
 
-        <div className="border-t border-gray-800 mt-8 pt-8">
-          <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              {t('footer.copyright')}
-            </p>
-            <div className="flex space-x-6">
-              {/* <a
-                href="/privacy"
-                className="text-gray-400 hover:text-white text-sm transition-colors"
+        <div className="border-t border-gray-800 mt-8 pt-6">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+            <div className="text-center md:text-left">
+              <p className="text-gray-400 text-sm">
+                © 2026 BetterAringay.org — MIT | CC BY 4.0
+              </p>
+              <p className="text-xs text-gray-500">
+                All public information sourced from official government portals.
+                Ver. 0.3.0
+              </p>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              <a
+                href="mailto:lgu_aringay@yahoo.com?subject=Volunteer%20for%20BetterAringay"
+                className="bg-white text-gray-900 px-4 py-2 rounded-lg text-sm font-semibold hover:bg-gray-100 transition"
               >
-                Privacy Policy
+                Volunteer with us
               </a>
               <a
-                href="/terms"
-                className="text-gray-400 hover:text-white text-sm transition-colors"
+                href="https://github.com/alvindemesadev/betteraringay"
+                target="_blank"
+                rel="noopener"
+                className="border border-gray-600 text-gray-300 px-4 py-2 rounded-lg text-sm font-semibold hover:bg-gray-800 hover:text-white transition"
               >
-                Terms of Use
-              </a> */}
-              <Link
-                to="https://github.com/bettergovph/bettergov"
-                className="text-gray-400 hover:text-white text-sm transition-colors"
-              >
-                Contribute at GitHub
-              </Link>
-              <Link
-                to="/sitemap"
-                className="text-gray-400 hover:text-white text-sm transition-colors"
-              >
-                Sitemap
-              </Link>
+                Contribute code
+              </a>
+            </div>
+          </div>
+          <div className="mt-4 flex flex-col md:flex-row justify-between items-center gap-3 text-xs text-gray-500">
+            <span>{t('footer.copyright')}</span>
+            <div className="flex items-center gap-3">
+              <span>Powered by</span>
               <a
-                href="/accessibility"
-                className="text-gray-400 hover:text-white text-sm transition-colors"
+                href="https://bettergov.ph"
+                target="_blank"
+                rel="noopener"
+                className="hover:text-white"
               >
-                Accessibility
+                BetterGov.ph
+              </a>
+              <span>•</span>
+              <a
+                href="https://github.com/iyanski/betterlocalgov"
+                target="_blank"
+                rel="noopener"
+                className="hover:text-white"
+              >
+                BetterLocalGov
               </a>
             </div>
           </div>

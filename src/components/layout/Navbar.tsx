@@ -68,18 +68,21 @@ const Navbar: React.FC = () => {
             >
               Hotlines
             </a>
-            <div className="hidden md:block">
-              <select
-                value={i18n.language}
-                onChange={e => changeLanguage(e.target.value as LanguageType)}
-                className="text-xs border border-gray-300 rounded px-2 py-1 bg-white text-gray-700 hover:border-primary-600 focus:outline-none focus:ring-1 focus:ring-primary-600 focus:border-primary-600"
-              >
-                {Object.entries(LANGUAGES).map(([code, lang]) => (
-                  <option key={code} value={code}>
-                    {lang.nativeName}
-                  </option>
-                ))}
-              </select>
+            <div className="hidden md:flex items-center gap-1">
+              {(['en', 'fil', 'ilo'] as LanguageType[]).map(code => (
+                <button
+                  key={code}
+                  onClick={() => changeLanguage(code)}
+                  className={`text-xs font-semibold px-2.5 py-1 rounded border transition ${
+                    i18n.language === code
+                      ? 'bg-primary-600 text-white border-primary-600'
+                      : 'bg-white text-gray-700 border-gray-300 hover:border-primary-600 hover:text-primary-600'
+                  }`}
+                  aria-label={`Switch to ${LANGUAGES[code].nativeName}`}
+                >
+                  {code.toUpperCase()}
+                </button>
+              ))}
             </div>
           </div>
         </div>
@@ -248,19 +251,24 @@ const Navbar: React.FC = () => {
             Sitemap
           </Link>
           <div className="px-4 py-3 border-t border-gray-200">
-            <div className="flex items-center">
-              <Globe className="h-5 w-5 text-gray-800 mr-2" />
-              <select
-                value={i18n.language}
-                onChange={e => changeLanguage(e.target.value as LanguageType)}
-                className="text-sm border border-gray-300 rounded px-2 py-1 bg-white text-gray-700 hover:border-primary-600 focus:outline-none focus:ring-1 focus:ring-primary-600 focus:border-primary-600"
-              >
-                {Object.entries(LANGUAGES).map(([code, lang]) => (
-                  <option key={code} value={code}>
-                    {lang.nativeName}
-                  </option>
-                ))}
-              </select>
+            <div className="flex items-center gap-1">
+              <Globe className="h-5 w-5 text-gray-700 mr-2" />
+              {(['en', 'fil', 'ilo'] as LanguageType[]).map(code => (
+                <button
+                  key={code}
+                  onClick={() => {
+                    changeLanguage(code);
+                    closeMenu();
+                  }}
+                  className={`text-sm font-semibold px-3 py-1.5 rounded border transition ${
+                    i18n.language === code
+                      ? 'bg-primary-600 text-white border-primary-600'
+                      : 'bg-white text-gray-700 border-gray-300 hover:border-primary-600 hover:text-primary-600'
+                  }`}
+                >
+                  {code.toUpperCase()}
+                </button>
+              ))}
             </div>
           </div>
         </div>
