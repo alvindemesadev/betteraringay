@@ -56,7 +56,7 @@ Report to **Barangay Captain / BHW / Barangay Tanod** during/after disaster — 
 
 ## Contact — Aringay Disaster
 
-- **MDRRMO Aringay** — Municipal Hall — (072) 607-9531 (emergency) — `facebook.com/betteraringay`
+- **MDRRMO Aringay** — Municipal Hall — (072) 607-9531 (emergency) — `facebook.com/lgu.aringay.official`
 - **MSWDO Aringay** — Municipal Hall — (072) 607-9531 — relief & AICS
 - **Barangay Halls** — 24 barangays, 24/7 during disaster
 - **DSWD FO I** — San Fernando City (provincial hub)

@@ -42,7 +42,7 @@ MSWDO interviews, validates via **Social Case Study**, and issues/endorses **ID*
 
 ### Step 3: Release
 
-ID claimed at **MSWDO/OSCA/PDAO**. Benefits (pension/cash) via **Municipal Hall payout** or **DSWD** schedule — watch `facebook.com/betteraringay` and barangay posts.
+ID claimed at **MSWDO/OSCA/PDAO**. Benefits (pension/cash) via **Municipal Hall payout** or **DSWD** schedule — watch `facebook.com/lgu.aringay.official` and barangay posts.
 
 ---
 

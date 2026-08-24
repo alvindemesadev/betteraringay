@@ -6,12 +6,12 @@ Join free **livelihood & skills training** via **MSWDO, PESO Aringay, MAO, and T
 
 ## What You Need to Know
 
-| Information | Details                                                                                                   |
-| ----------- | --------------------------------------------------------------------------------------------------------- |
-| **Where**   | Municipal Hall, Marcos Ave, Poblacion; barangay halls; TESDA La Union (San Fernando) / DTI Negosyo Center |
-| **When**    | Per MSWDO/PESO/MAO calendar — posted at Municipal Hall + barangay halls, `facebook.com/betteraringay`     |
-| **Cost**    | Free (DSWD/DOLE/TESDA/DTI/LGU-funded); starter kits may be provided per program                           |
-| **Who**     | Aringay residents — priority: low-income, solo parents, PWDs, OSY, fisherfolk/farmers                     |
+| Information | Details                                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------------ |
+| **Where**   | Municipal Hall, Marcos Ave, Poblacion; barangay halls; TESDA La Union (San Fernando) / DTI Negosyo Center    |
+| **When**    | Per MSWDO/PESO/MAO calendar — posted at Municipal Hall + barangay halls, `facebook.com/lgu.aringay.official` |
+| **Cost**    | Free (DSWD/DOLE/TESDA/DTI/LGU-funded); starter kits may be provided per program                              |
+| **Who**     | Aringay residents — priority: low-income, solo parents, PWDs, OSY, fisherfolk/farmers                        |
 
 ---
 

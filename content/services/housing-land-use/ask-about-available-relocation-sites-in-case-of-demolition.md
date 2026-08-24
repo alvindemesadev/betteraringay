@@ -28,7 +28,7 @@ Check available **relocation sites** if affected by **demolition, river/coastal 
 
 ## If No Site Currently
 
-- You remain on **LGU Housing Master List** — MSWDO calls when intake opens (watch `facebook.com/betteraringay` + barangay hall)
+- You remain on **LGU Housing Master List** — MSWDO calls when intake opens (watch `facebook.com/lgu.aringay.official` + barangay hall)
 - **Interim measures:** **MSWDO cash/material aid** (if calamity), **MDRRMO** safe return guidance, **MPDC** zoning advice for **temporary shelter**
 
 ---

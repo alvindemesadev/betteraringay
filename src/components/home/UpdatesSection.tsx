@@ -12,7 +12,7 @@ export default function UpdatesSection() {
           </p>
         </div>
         <a
-          href="https://facebook.com/betteraringay"
+          href="https://facebook.com/lgu.aringay.official"
           target="_blank"
           rel="noopener"
           className="hidden md:inline text-primary-600 hover:text-primary-700 font-medium"
@@ -43,7 +43,7 @@ export default function UpdatesSection() {
             </ul>
             <div className="mt-4 flex gap-3">
               <a
-                href="https://www.facebook.com/RaniagAringay/"
+                href="https://www.facebook.com/lgu.aringay.official"
                 target="_blank"
                 rel="noopener"
                 className="bg-primary-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-primary-700 transition"
@@ -51,18 +51,18 @@ export default function UpdatesSection() {
                 LGU Aringay on Facebook
               </a>
               <a
-                href="https://facebook.com/betteraringay"
+                href="https://www.facebook.com/lgu.aringay.official"
                 target="_blank"
                 rel="noopener"
                 className="bg-white border border-gray-300 text-gray-700 px-4 py-2 rounded-lg text-sm font-semibold hover:bg-gray-50 transition"
               >
-                BetterAringay
+                BetterAringay (mirror)
               </a>
             </div>
             <p className="text-xs text-gray-400 mt-3">
               Can't see the feed?{' '}
               <a
-                href="https://www.facebook.com/RaniagAringay/"
+                href="https://www.facebook.com/lgu.aringay.official"
                 target="_blank"
                 rel="noopener"
                 className="text-primary-600 hover:underline"

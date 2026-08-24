@@ -18,7 +18,7 @@ Volunteer for **coastal clean-ups (Lingayen Gulf), river/creek clean-ups (Aringa
 ## How to Join
 
 1. **Sign up** at **Barangay Hall** (SK / Environment Committee) or **MENRO, Municipal Hall** — fill **Volunteer Slip** (name, barangay, contact)
-2. **Check schedule** — MENRO/Barangay posts at hall + `facebook.com/betteraringay` + school bulletins
+2. **Check schedule** — MENRO/Barangay posts at hall + `facebook.com/lgu.aringay.official` + school bulletins
 3. **Show up** — bring hat, water, closed shoes; MENRO provides briefing + segregation bags (biodegradable/recyclable/residual)
 4. **For tree planting:** MENRO assigns **site/species** (narra, mangrove for coastal Dulao/Samara, fruit trees for upland) — seedlings free from **MENRO/MAO/Provincial ENRO** when available
 

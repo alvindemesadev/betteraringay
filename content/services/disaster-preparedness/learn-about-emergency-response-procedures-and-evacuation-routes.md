@@ -19,7 +19,7 @@ Know **MDRRMO Aringay response procedures** and **evacuation routes/centers** fo
 ## Emergency Response Procedures (MDRRMO)
 
 1. **Monitoring:** MDRRMO monitors **PAGASA rainfall / river level** + **PHIVOLCS** + **Provincial DRRMO La Union**
-2. **Alert:** **Barangay Captains + BDRRM + Tanods** notified → **bandillo / siren / FB** + `facebook.com/betteraringay`
+2. **Alert:** **Barangay Captains + BDRRM + Tanods** notified → **bandillo / siren / FB** + `facebook.com/lgu.aringay.official`
 3. **Pre-emptive evacuation:** For **Signal 2+** or **Aringay River danger level**, MDRRMO orders **pre-emptive evacuation** — do not wait for flood
 4. **Rescue:** MDRRMO/Rescue + PNP/BFP + Barangay Tanods deploy; call **(072) 607-9531** if family member needs rescue — give **exact purok/landmark + number stranded + special needs (PWD/senior/pregnant)**
 5. **Centers:** MDRRMO opens **Evacuation Center** — register at **MSWDO desk** (master list of families) → food/water via MSWDO/DSWD
@@ -49,7 +49,7 @@ Know **MDRRMO Aringay response procedures** and **evacuation routes/centers** fo
 **(072) 607-9531** — 24/7 during disaster — also **PNP Aringay**
 **Barangay Halls** — 24 barangays, BDRRM
 
-**Follow only:** MDRRMO Aringay, PAGASA Region I, PHIVOLCS, `facebook.com/betteraringay` — not rumors.
+**Follow only:** MDRRMO Aringay, PAGASA Region I, PHIVOLCS, `facebook.com/lgu.aringay.official` — not rumors.
 
 ---
 

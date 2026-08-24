@@ -78,7 +78,7 @@ Priority: OTOP-branded, export-ready, food-safe (FDA when needed), and Kilawen/t
 
 ## Where to Watch for Calls & Schedules
 
-- **Municipal Hall, Aringay:** BPLO (072) 607-9531, **Municipal Tourism Office**, **MAO**, **MSWDO** — bulletin at Municipal Hall, announcements on `facebook.com/betteraringay` and LGU FB
+- **Municipal Hall, Aringay:** BPLO (072) 607-9531, **Municipal Tourism Office**, **MAO**, **MSWDO** — bulletin at Municipal Hall, announcements on `facebook.com/lgu.aringay.official` and LGU FB
 - **DTI La Union / Negosyo Center Aringay** (DTI Ilocos Region) — OTOP fairs, mentoring
 - **Provincial Tourism Office, La Union** (San Fernando) — travel marts, MICE
 - **La Union Chamber / Associations** — B2B, exporters

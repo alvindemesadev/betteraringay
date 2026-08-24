@@ -132,7 +132,7 @@ A: Yes. Barangay clearance first (your barangay consents), then Mayor's permit (
 A: Based on capitalization (new) or gross sales (renewal) + local tax ordinance rates + regulatory fees. Assessment printed at BPLO before payment.
 
 **Q: Can I apply online?**
-A: Aringay is primarily walk-in at BPLO. For DTI/SEC/BIR, online via BNRS/eSPARC/BIR eAFS. Follow `facebook.com/betteraringay` and `aringay.gov.ph` for any BOSS online pre-assessment announcements.
+A: Aringay is primarily walk-in at BPLO. For DTI/SEC/BIR, online via BNRS/eSPARC/BIR eAFS. Follow `facebook.com/lgu.aringay.official` and `aringay.gov.ph` for any BOSS online pre-assessment announcements.
 
 **Q: Open in a barangay far from Poblacion (e.g., Gallano, Basca)?**
 A: Still get barangay clearance at that barangay hall, but Mayor's permit is only at Municipal Hall, Poblacion.

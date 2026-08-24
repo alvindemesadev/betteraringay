@@ -18,7 +18,7 @@ Below are **LGU Aringay-facilitated** programs you can use: school supplies, stu
 **Links**
 
 - DepEd Schools Division of La Union — depedlaunion.com / FB: DepEd Tayo La Union
-- News: watch `facebook.com/betteraringay` and barangay elementary school FB pages
+- News: watch `facebook.com/lgu.aringay.official` and barangay elementary school FB pages
 
 ---
 

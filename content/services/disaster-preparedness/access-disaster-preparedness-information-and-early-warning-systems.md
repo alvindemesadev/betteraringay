@@ -6,22 +6,22 @@ Access **PAGASA, PHIVOLCS, and MDRRMO Aringay** warnings for typhoon, flood (Ari
 
 ## What You Need to Know
 
-| Information        | Details                                                                                                                         |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Where to Check** | **MDRRMO, Municipal Hall, Marcos Ave** + **Barangay Hall/BDRRM** + official FB `facebook.com/betteraringay` + PAGASA & PHIVOLCS |
-| **When**           | **24/7 monitoring** during typhoon season (June–Nov); MDRRMO posts updates every 3–6 hours during active weather                |
-| **Cost**           | Free                                                                                                                            |
-| **Coverage**       | 24 barangays — coastal surge, river flood, upland landslide                                                                     |
+| Information        | Details                                                                                                                                |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Where to Check** | **MDRRMO, Municipal Hall, Marcos Ave** + **Barangay Hall/BDRRM** + official FB `facebook.com/lgu.aringay.official` + PAGASA & PHIVOLCS |
+| **When**           | **24/7 monitoring** during typhoon season (June–Nov); MDRRMO posts updates every 3–6 hours during active weather                       |
+| **Cost**           | Free                                                                                                                                   |
+| **Coverage**       | 24 barangays — coastal surge, river flood, upland landslide                                                                            |
 
 ---
 
 ## Official Sources (Follow These)
 
-| Hazard                          | Official Source                                                                              | What to Watch                                                                                               |
-| ------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Typhoon / Rainfall Flooding** | **PAGASA** (pagasa.dost.gov.ph) + **PAGASA Region I** + **MDRRMO Aringay** FB/bandillo       | Tropical Cyclone Wind Signal, Heavy Rainfall Warning (Yellow/Orange/Red), Aringay River level (MDRRMO)      |
-| **Earthquake / Tsunami**        | **PHIVOLCS** (phivolcs.dost.gov.ph) + **MDRRMO Aringay** siren                               | Intensity, tsunami alert — **if coastal and M7+ quake, evacuate upland immediately — don't wait for alert** |
-| **General Aringay Updates**     | **MDRRMO Aringay** — Municipal Hall + Barangay Tanod bandillo + `facebook.com/betteraringay` | Evacuation orders, center openings, road closures, class suspensions                                        |
+| Hazard                          | Official Source                                                                                     | What to Watch                                                                                               |
+| ------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Typhoon / Rainfall Flooding** | **PAGASA** (pagasa.dost.gov.ph) + **PAGASA Region I** + **MDRRMO Aringay** FB/bandillo              | Tropical Cyclone Wind Signal, Heavy Rainfall Warning (Yellow/Orange/Red), Aringay River level (MDRRMO)      |
+| **Earthquake / Tsunami**        | **PHIVOLCS** (phivolcs.dost.gov.ph) + **MDRRMO Aringay** siren                                      | Intensity, tsunami alert — **if coastal and M7+ quake, evacuate upland immediately — don't wait for alert** |
+| **General Aringay Updates**     | **MDRRMO Aringay** — Municipal Hall + Barangay Tanod bandillo + `facebook.com/lgu.aringay.official` | Evacuation orders, center openings, road closures, class suspensions                                        |
 
 > **Bookmark:** PAGASA, PHIVOLCS, and MDRRMO FB. During disaster, **MDRRMO's post overrides** rumors.
 
@@ -31,7 +31,7 @@ Access **PAGASA, PHIVOLCS, and MDRRMO Aringay** warnings for typhoon, flood (Ari
 
 1. **MDRRMO Operations Center** (Municipal Hall) monitors **PAGASA rainfall / river gauges** + **Provincial DRRMO La Union**
 2. **Alert sent** to **Barangay Captains/BDRRM → Tanods** via radio/GC → **bandillo + house-to-house** for immediate puroks
-3. **Public post** on **MDRRMO FB / `facebook.com/betteraringay`** + Municipal Hall bulletin
+3. **Public post** on **MDRRMO FB / `facebook.com/lgu.aringay.official`** + Municipal Hall bulletin
 4. **Evacuation order** if **Red Rainfall / River critical / Storm Surge Warning** — follow `learn-about-emergency-response-procedures` guide
 
 ---

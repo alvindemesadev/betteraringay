@@ -16,7 +16,7 @@ The Municipality of Aringay manages **regular garbage collection** via **MENRO (
 
 1. **Barangay Hall** — posted schedule at hall + purok leaders
 2. **Barangay FB / GC** — most barangays post delays/reschedules
-3. **MENRO / Municipal Hall** bulletin (072) 607-9531, `facebook.com/betteraringay`, `aringay.gov.ph`
+3. **MENRO / Municipal Hall** bulletin (072) 607-9531, `facebook.com/lgu.aringay.official`, `aringay.gov.ph`
 
 > Tip: Post your zone's calendar on gate/fridge — put bins out **early morning of collection day** only.
 
@@ -47,7 +47,7 @@ For **bulky waste**: furniture, appliances, construction debris, yard trimmings,
   Municipal Hall, Marcos Avenue, Poblacion, Aringay, La Union 2503
   **Trunk:** (072) 607-9531 / 607-1986 — ask for MENRO
   **Email:** lgu_aringay@yahoo.com
-  Updates: Municipal Hall bulletin, barangay halls, `facebook.com/betteraringay`
+  Updates: Municipal Hall bulletin, barangay halls, `facebook.com/lgu.aringay.official`
 
 - **Barangay Halls** — 24 barangays, Mon–Fri 8AM–5PM, Solid Waste desk
 

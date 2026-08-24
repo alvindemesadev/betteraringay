@@ -6,12 +6,12 @@ Join free training via **MAO + TESDA + DA/BFAR Region I + DTI Negosyo Center La 
 
 ## What You Need to Know
 
-| Information | Details                                                                                                                                 |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Where**   | MAO training hall, Municipal Hall, Marcos Ave; demo farms in Basca/Gallano; coastal demo in Dulao/Samara; TESDA La Union (San Fernando) |
-| **When**    | Per MAO calendar — posted at Municipal Hall, barangay halls, `facebook.com/betteraringay` (often pre-planting season & off-season)      |
-| **Cost**    | Free (LGU/DA/BFAR/TESDA-funded); meals/materials may be provided per program                                                            |
-| **Who**     | RSBSA farmers/fisherfolk, youth, women's groups, cooperatives                                                                           |
+| Information | Details                                                                                                                                   |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Where**   | MAO training hall, Municipal Hall, Marcos Ave; demo farms in Basca/Gallano; coastal demo in Dulao/Samara; TESDA La Union (San Fernando)   |
+| **When**    | Per MAO calendar — posted at Municipal Hall, barangay halls, `facebook.com/lgu.aringay.official` (often pre-planting season & off-season) |
+| **Cost**    | Free (LGU/DA/BFAR/TESDA-funded); meals/materials may be provided per program                                                              |
+| **Who**     | RSBSA farmers/fisherfolk, youth, women's groups, cooperatives                                                                             |
 
 ---
 

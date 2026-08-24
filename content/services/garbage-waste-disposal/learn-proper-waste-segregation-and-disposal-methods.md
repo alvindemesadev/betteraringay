@@ -64,7 +64,7 @@ Proper segregation is **mandatory** under **RA 9003 (Ecological Solid Waste Mana
 - **MENRO — Municipality of Aringay**
   Municipal Hall, Marcos Avenue, Poblacion, Aringay, La Union 2503
   **(072) 607-9531** — ask for MENRO
-  Updates: Municipal Hall bulletin, barangay halls, `facebook.com/betteraringay`
+  Updates: Municipal Hall bulletin, barangay halls, `facebook.com/lgu.aringay.official`
 
 ---
 

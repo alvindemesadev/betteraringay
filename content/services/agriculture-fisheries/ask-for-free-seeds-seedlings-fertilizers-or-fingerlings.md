@@ -36,7 +36,7 @@ Fill **Request Slip for Agricultural Inputs** at MAO — indicate barangay (e.g.
 
 ### Step 3: Schedule & Claim
 
-MAO posts distribution schedule at Municipal Hall, barangay halls, and `facebook.com/betteraringay`. Claim on schedule with ID. Fingerlings collected at MAO/BFAR-demo pond or barangay pond.
+MAO posts distribution schedule at Municipal Hall, barangay halls, and `facebook.com/lgu.aringay.official`. Claim on schedule with ID. Fingerlings collected at MAO/BFAR-demo pond or barangay pond.
 
 ---
 

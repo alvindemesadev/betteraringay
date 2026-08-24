@@ -92,7 +92,10 @@ export const footerNavigation = {
     },
   ],
   socialLinks: [
-    { label: 'Facebook', href: 'https://facebook.com/betteraringay' },
+    {
+      label: 'Facebook',
+      href: 'https://www.facebook.com/lgu.aringay.official',
+    },
     { label: 'Twitter', href: 'https://twitter.com/betteraringay' },
     { label: 'Instagram', href: 'https://instagram.com/betteraringay' },
     { label: 'YouTube', href: 'https://youtube.com/@betteraringay' },

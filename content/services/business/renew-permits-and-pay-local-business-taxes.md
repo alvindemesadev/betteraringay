@@ -71,7 +71,7 @@ Renew your **Mayor's / Business Permit** and **Local Business Taxes (LBT)** ever
 
 ## Online / Hybrid (If Announced)
 
-Aringay is primarily walk-in. If the LGU opens online pre-assessment (often via `aringay.gov.ph` or Facebook), prepare scanned PDFs (1 file per requirement). After assessment, pay e-payment or onsite per instructions. Check `facebook.com/betteraringay` in late December.
+Aringay is primarily walk-in. If the LGU opens online pre-assessment (often via `aringay.gov.ph` or Facebook), prepare scanned PDFs (1 file per requirement). After assessment, pay e-payment or onsite per instructions. Check `facebook.com/lgu.aringay.official` in late December.
 
 ---
 

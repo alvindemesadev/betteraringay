@@ -20,7 +20,7 @@ Join **LGU Aringay (RHU/MHO) + DOH** programs via your **Barangay Health Station
 **How to join**
 
 1. Visit your **BHS / Barangay Hall** → ask **BNS** about feeding/nutrition schedule (Poblacion, San Eugenio, Dulao clusters have regular schedules)
-2. Attend community activities and RHU announcements (Municipal Hall bulletin, `facebook.com/betteraringay`)
+2. Attend community activities and RHU announcements (Municipal Hall bulletin, `facebook.com/lgu.aringay.official`)
 
 **Cost:** Free for eligible beneficiaries
 
