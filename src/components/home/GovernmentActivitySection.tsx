@@ -40,10 +40,14 @@ export default function GovernmentActivitySection({
     return IconComponent ? <IconComponent className="h-6 w-6" /> : null;
   };
 
-  const displayedCategories = governmentCategories.categories as Category[];
+  // Only render categories that have content (categoryIndexMap) — avoids dead-end pages
+  const availableSlugs = ['departments'];
+  const displayedCategories = (governmentCategories.categories as Category[]).filter(c =>
+    availableSlugs.includes(c.slug),
+  );
 
   return (
-    <Section id="#government">
+    <Section id="government">
       <Heading level={2}>{title || t('governmentActivity.title')}</Heading>
       <Text className="text-muted-foreground mb-6">
         {description || t('governmentActivity.description')}
@@ -66,6 +70,13 @@ export default function GovernmentActivitySection({
             </Card>
           </Link>
         ))}
+        <Card className="border-dashed items-center justify-center flex">
+          <CardContent className="p-6 text-center">
+            <p className="text-sm text-muted-foreground">
+              News, guides, reports, and consultations sections are coming soon.
+            </p>
+          </CardContent>
+        </Card>
       </div>
     </Section>
   );

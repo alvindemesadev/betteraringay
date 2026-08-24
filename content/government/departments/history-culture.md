@@ -14,7 +14,7 @@ Coastal gateway to La Union on Lingayen Gulf, **16°24' N, 120°21' E**, elevati
 | **Population** | 50,380 (2020) → 50,786 (2024 POPCEN) |
 | **Households** | ~12,000 (PSA)                        |
 | **Language**   | Ilocano (primary), Filipino, English |
-| **Coastline**  | Lingayen Gulf / South China Sea      |
+| **Coastline**  | Lingayen Gulf      |
 
 ---
 

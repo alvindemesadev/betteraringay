@@ -9,9 +9,9 @@ const hotlines = [
     Icon: Shield,
   },
   {
-    label: 'BFP Aringay',
-    number: '0917 800 1605',
-    tel: '09178001605',
+    label: 'BFP Fire',
+    number: '911',
+    tel: '911',
     Icon: Flame,
   },
   {

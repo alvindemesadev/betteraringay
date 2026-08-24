@@ -39,11 +39,6 @@ export default function UpdatesSection() {
                     LGU Aringay on Facebook
                   </a>
                 </Button>
-                <Button asChild variant="outline">
-                  <a href="https://www.facebook.com/lgu.aringay.official" target="_blank" rel="noopener">
-                    BetterAringay (mirror)
-                  </a>
-                </Button>
               </div>
               <p className="text-xs text-muted-foreground mt-3">
                 Can’t see the feed?{' '}

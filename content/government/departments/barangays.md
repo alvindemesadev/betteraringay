@@ -13,7 +13,7 @@ Aringay is a 2nd-class coastal municipality with **24 barangays** covering **84.
 | **Most populous**             | San Eugenio — 4,201 (2020)                    |
 | **Smallest**                  | Pangao-aoan West — 1,004 (2020) / 984 (2024)  |
 | **Fastest growing 2020-2024** | Pangao-aoan East +12.7%                       |
-| **Coastal**                   | Yes — borders Lingayen Gulf (South China Sea) |
+| **Coastal**                   | Yes — borders Lingayen Gulf |
 | **Coordinates**               | 16°24' N, 120°21' E — 20m elevation           |
 
 Source: PhilAtlas / PSA, Barangay Directory (last updated 2026-07-16).

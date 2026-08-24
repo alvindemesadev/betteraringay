@@ -43,15 +43,15 @@ Outside of official duties, Mayor **{MAYOR}** works closely with barangay leader
 
 ### Mayor's Community Assistance Program
 
-During the current term, Mayor **{MAYOR}** supports several initiatives aimed at improving the welfare of residents under the theme **"[PROGRAM THEME]"**.
+During the current term, Mayor **{MAYOR}** supports several initiatives aimed at improving the welfare of residents across the 24 barangays.
 
 Programs supported include:
 
-- **[PROGRAM NAME 1]** – Supporting education and youth development
-- **[PROGRAM NAME 2]** – Providing livelihood assistance to families
-- **[PROGRAM NAME 3]** – Strengthening disaster preparedness and community resilience
+- **Education and youth development** – scholarships, school supplies, and SPES student employment via MSWDO and PESO
+- **Livelihood assistance** – skills training and starter kits for families via MSWDO, DTI Negosyo Center, and TESDA
+- **Disaster preparedness and community resilience** – drills, early warning, and relief operations via MDRRMO
 
-You can read more about these initiatives on the **Mayor's Community Programs page**.
+For the latest program announcements, follow the official LGU page at **facebook.com/lgu.aringay.official** or call the Municipal Hall at (072) 607-9531.
 
 ---
 

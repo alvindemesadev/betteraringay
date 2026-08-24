@@ -213,17 +213,20 @@ const Navbar: React.FC = () => {
 
             <Separator className="my-3" />
 
-            <Link to="/about" onClick={closeMenu} className="px-3 py-2.5 rounded-md text-base font-medium hover:bg-accent transition-colors">
-              About
-            </Link>
+            <a
+              href="https://bettergov.ph/about"
+              target="_blank"
+              rel="noreferrer"
+              onClick={closeMenu}
+              className="px-3 py-2.5 rounded-md text-base font-medium hover:bg-accent transition-colors flex items-center justify-between"
+            >
+              About BetterGov <ExternalLink className="h-4 w-4 text-muted-foreground" />
+            </a>
             {isMeilisearchEnabled && (
               <Link to="/search" onClick={closeMenu} className="px-3 py-2.5 rounded-md text-base font-medium hover:bg-accent transition-colors">
                 Search
               </Link>
             )}
-            <Link to="/sitemap" onClick={closeMenu} className="px-3 py-2.5 rounded-md text-base font-medium hover:bg-accent transition-colors">
-              Sitemap
-            </Link>
             <a
               href="https://www.facebook.com/lgu.aringay.official"
               target="_blank"

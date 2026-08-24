@@ -4,6 +4,7 @@
 
 import { type TypographyTheme } from './typographyThemes';
 import { type ReactNode, type HTMLAttributes } from 'react';
+import { Link } from 'react-router';
 import { TableWithToggle } from './TableWithToggle';
 
 // Extended theme type to include dynamic component keys
@@ -87,10 +88,6 @@ export function createMarkdownComponents(theme: TypographyTheme) {
       children,
       ...props
     }: { children?: ReactNode } & HTMLAttributes<HTMLUListElement>) => {
-      // Debug: Log what we're getting
-      console.log('UL Component - Props:', props);
-      console.log('UL Component - Children:', children);
-
       // Check if this ul contains task list items
       const hasTaskItems =
         Array.isArray(children) &&
@@ -99,8 +96,6 @@ export function createMarkdownComponents(theme: TypographyTheme) {
             typeof child === 'object' &&
             child?.props?.className?.includes('task-list-item')
         );
-
-      console.log('Has Task Items:', hasTaskItems);
 
       // For task lists, don't wrap with ul - just return children directly
       if (hasTaskItems) {
@@ -236,16 +231,24 @@ export function createMarkdownComponents(theme: TypographyTheme) {
       children?: ReactNode;
       href?: string;
     } & HTMLAttributes<HTMLAnchorElement>) => {
-      // Check if it's an external link
+      // External links open in new tab; internal links use client-side routing
       const isExternal =
-        href && (href.startsWith('http://') || href.startsWith('https://'));
+        href && (href.startsWith('http://') || href.startsWith('https://') || href.startsWith('mailto:') || href.startsWith('tel:'));
+
+      if (!isExternal && href) {
+        return (
+          <Link to={href} className={theme.components.a}>
+            {children}
+          </Link>
+        );
+      }
 
       return (
         <a
           href={href}
           className={theme.components.a}
-          target={isExternal ? '_blank' : undefined}
-          rel={isExternal ? 'noopener noreferrer' : undefined}
+          target={isExternal && href?.startsWith('http') ? '_blank' : undefined}
+          rel={isExternal && href?.startsWith('http') ? 'noopener noreferrer' : undefined}
           {...props}
         >
           {children}

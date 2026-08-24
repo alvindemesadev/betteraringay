@@ -1,5 +1,5 @@
 import Section from '../components/ui/Section';
-import { useParams, Link } from 'react-router';
+import { useParams, Link, useSearchParams } from 'react-router';
 import { Heading } from '../components/ui/Heading';
 import { Text } from '../components/ui/Text';
 import { serviceCategories, getCategorySubcategories, type Subcategory, type CategoryIndex } from '../data/yamlLoader';
@@ -11,14 +11,25 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Skeleton } from '@/components/ui/skeleton';
 import { Alert, AlertTitle, AlertDescription } from '@/components/ui/alert';
-import { useState, useEffect } from 'react';
-import { AlertCircle } from 'lucide-react';
+import { useState, useEffect, useMemo } from 'react';
+import { AlertCircle, SearchX } from 'lucide-react';
 
 const Services: React.FC = () => {
   const { category } = useParams();
+  const [searchParams] = useSearchParams();
+  const query = (searchParams.get('q') ?? '').trim().toLowerCase();
   const [categoryIndex, setCategoryIndex] = useState<CategoryIndex>({ layout: 'list', pages: [] });
   const [loading, setLoading] = useState(false);
-  const subcategories: Subcategory[] = categoryIndex.pages;
+
+  const subcategories: Subcategory[] = useMemo(() => {
+    const pages = categoryIndex.pages;
+    if (!query) return pages;
+    return pages.filter(
+      p =>
+        p.name.toLowerCase().includes(query) ||
+        (p.description ?? '').toLowerCase().includes(query),
+    );
+  }, [categoryIndex.pages, query]);
 
   const getCategory = () => serviceCategories.categories.find(c => c.slug === category);
   const categoryData = getCategory();
@@ -85,6 +96,17 @@ const Services: React.FC = () => {
             <Skeleton className="h-24 w-full" />
             <Skeleton className="h-24 w-full" />
             <Skeleton className="h-24 w-full" />
+          </div>
+        ) : subcategories.length === 0 && query ? (
+          <div className="text-center py-12">
+            <SearchX className="h-12 w-12 mx-auto text-muted-foreground/50 mb-4" />
+            <h3 className="text-lg font-medium">No services match “{searchParams.get('q')}”</h3>
+            <p className="text-sm text-muted-foreground mt-2">
+              Try a different keyword, or browse all services.
+            </p>
+            <Link to="/services" className="inline-block mt-4 text-primary hover:underline text-sm font-medium">
+              Browse all services →
+            </Link>
           </div>
         ) : (
           <>

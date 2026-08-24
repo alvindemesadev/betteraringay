@@ -45,10 +45,12 @@ export const footerNavigation = {
           label: 'History & Culture',
           href: '/government/departments/history-culture',
         },
-        { label: 'Sitemap', href: '/sitemap' },
-        { label: 'Accessibility', href: '/accessibility' },
-        { label: 'Privacy Policy', href: '/privacy' },
-        { label: 'Terms of Use', href: '/terms' },
+        { label: 'Aringay Quiz', href: '/quiz' },
+        {
+          label: 'Sangguniang Bayan',
+          href: '/government/departments/legislative',
+        },
+        { label: 'Contact Us', href: '/government/departments/executive' },
       ],
     },
     {
@@ -96,8 +98,5 @@ export const footerNavigation = {
       label: 'Facebook',
       href: 'https://www.facebook.com/lgu.aringay.official',
     },
-    { label: 'Twitter', href: 'https://twitter.com/betteraringay' },
-    { label: 'Instagram', href: 'https://instagram.com/betteraringay' },
-    { label: 'YouTube', href: 'https://youtube.com/@betteraringay' },
   ],
 };

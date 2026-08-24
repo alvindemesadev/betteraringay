@@ -50,15 +50,15 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex space-x-4">
               {footerNavigation.socialLinks.map(link => (
-                <Link
+                <a
                   key={link.label}
-                  to={link.href}
+                  href={link.href}
                   className="text-gray-400 hover:text-white transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   {getSocialIcon(link.label)}
-                </Link>
+                </a>
               ))}
             </div>
           </div>
@@ -67,16 +67,29 @@ const Footer: React.FC = () => {
             <div key={section.title}>
               <h3 className="text-lg font-semibold mb-4">{section.title}</h3>
               <ul className="space-y-2">
-                {section.links.map(link => (
-                  <li key={link.label}>
-                    <Link
-                      to={link.href}
-                      className="text-gray-400 hover:text-white text-sm transition-colors"
-                    >
-                      {link.label}
-                    </Link>
-                  </li>
-                ))}
+                {section.links.map(link =>
+                  link.href.startsWith('http') ? (
+                    <li key={link.label}>
+                      <a
+                        href={link.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-gray-400 hover:text-white text-sm transition-colors"
+                      >
+                        {link.label}
+                      </a>
+                    </li>
+                  ) : (
+                    <li key={link.label}>
+                      <Link
+                        to={link.href}
+                        className="text-gray-400 hover:text-white text-sm transition-colors"
+                      >
+                        {link.label}
+                      </Link>
+                    </li>
+                  )
+                )}
               </ul>
             </div>
           ))}

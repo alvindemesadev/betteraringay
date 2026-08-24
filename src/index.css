@@ -2,9 +2,6 @@
 @import 'tw-animate-css';
 @plugin '@tailwindcss/typography';
 
-@source '../node_modules/@bettergov/kapwa/dist';
-@import '@bettergov/kapwa/styles';
-
 /* shadcn — CSS variables at root (hsl) */
 :root {
   --background: hsl(0 0% 100%);
@@ -211,11 +208,6 @@
     0% { transform: translateY(10px); opacity: 0; }
     100% { transform: translateY(0); opacity: 1; }
   }
-}
-
-@theme inline {
-  --font-sans: 'Inter', var(--font-kapwa-sans);
-  --font-mono: 'JetBrains Mono', var(--font-kapwa-mono);
 }
 
 /* Hotline Bar — red gradient, marquee on ≤1024px */

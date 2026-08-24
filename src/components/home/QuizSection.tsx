@@ -17,7 +17,7 @@ export default function QuizSection() {
           <Button asChild size="lg" className="mt-6 bg-white text-[#0a2a7a] hover:bg-white/90 shadow">
             <Link to="/quiz">Take the Quiz →</Link>
           </Button>
-          <p className="text-blue-200 text-xs mt-3">5 questions • 1 minute • Instant score + share</p>
+          <p className="text-blue-200 text-xs mt-3">8 questions • 2 minutes • Instant score + share</p>
         </div>
       </div>
     </section>
