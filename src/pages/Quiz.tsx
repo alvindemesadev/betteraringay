@@ -74,12 +74,7 @@ const QUESTIONS: Q[] = [
   },
   {
     q: 'Which gulf borders Aringay to the west?',
-    options: [
-      'Manila Bay',
-      'Lingayen Gulf (South China Sea)',
-      'Subic Bay',
-      'Baler Bay',
-    ],
+    options: ['Manila Bay', 'Lingayen Gulf', 'Subic Bay', 'Baler Bay'],
     answer: 1,
     fact: 'Lingayen Gulf — Aringay is coastal; beach barangays Dulao/Samara/San Eugenio face the gulf.',
   },
