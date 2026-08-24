@@ -45,7 +45,7 @@ export default function Hero() {
                 size="lg"
                 className="bg-white/10 backdrop-blur border-white/30 text-white hover:bg-white/20 hover:text-white"
               >
-                <Link to="/government/departments/executive">Contact Us</Link>
+                <Link to="/contact">Contact Us</Link>
               </Button>
             </div>
             <div className="mt-6 flex flex-wrap gap-2 text-xs">

@@ -31,7 +31,7 @@ export const mainNavigation: NavigationItem[] = [
   },
   {
     label: 'Contact',
-    href: '/government/departments/executive',
+    href: '/contact',
   },
 ];
 
@@ -50,7 +50,7 @@ export const footerNavigation = {
           label: 'Sangguniang Bayan',
           href: '/government/departments/legislative',
         },
-        { label: 'Contact Us', href: '/government/departments/executive' },
+        { label: 'Contact Us', href: '/contact' },
       ],
     },
     {
@@ -89,7 +89,7 @@ export const footerNavigation = {
           label: 'Transparency & Budget',
           href: '/government/departments/transparency',
         },
-        { label: 'Contact Us', href: '/government/departments/executive' },
+        { label: 'Contact Us', href: '/contact' },
       ],
     },
   ],
