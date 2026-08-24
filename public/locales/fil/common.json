@@ -1,0 +1,53 @@
+{
+  "site_name": "Munisipalidad ng Aringay",
+  "site_description": "Lalawigan ng La Union • Rehiyon I • 24 na Barangay",
+  "hero": {
+    "title": "Mabuhay sa BetterAringay.org",
+    "subtitle": "Portal ng transparency para sa Munisipalidad ng Aringay, La Union — 24 barangay, baybayin ng Lingayen Gulf, para sa 50,380 mamamayan.",
+    "nationalId": "National ID",
+    "birthCertificate": "Sertipiko ng Kapanganakan",
+    "businessRegistration": "Rehistro ng Negosyo"
+  },
+  "services": {
+    "title": "Serbisyo at Impormasyon",
+    "governmentServices": "Serbisyo ng Gobyerno",
+    "description": "Madaling hanapin ang serbisyo ng gobyerno — para sa mamamayan, negosyo, edukasyon, atbp.",
+    "viewAll": "Tingnan Lahat ng Serbisyo",
+    "viewAllCategory": "Tingnan Lahat"
+  },
+  "governmentActivity": {
+    "title": "Gawain ng Pamahalaan",
+    "description": "Manatiling updated sa pinakabagong anunsyo at aktibidad ng pamahalaan."
+  },
+  "weather": {
+    "title": "Ulat Panahon"
+  },
+  "forex": {
+    "title": "Palitan ng Pera"
+  },
+  "news": {
+    "title": "Pinakabagong Balita"
+  },
+  "footer": {
+    "copyright": "© 2026 Munisipalidad ng Aringay, La Union. Content CC BY 4.0. Gastos sa mamamayan: ₱0."
+  },
+  "navbar": {
+    "government": "Gobyerno",
+    "services": "Serbisyo",
+    "hotlines": "Hotlines",
+    "holidays": "Holidays"
+  },
+  "joinUs": {
+    "stripTitle": "🚀 Samahan ang #CivicTech Revolution",
+    "stripSubtitle": "Tumulong bumuo ng kinabukasan ng Pilipinas sa teknolohiya",
+    "joinNow": "Sumali Na",
+    "discord": "Discord",
+    "bannerTitle": "Samahan ang #CivicTech Revolution",
+    "bannerSubtitle": "Tumulong bumuo ng kinabukasan ng Pilipinas sa teknolohiya.",
+    "bannerHighlight": "Pinamumunuan ng volunteers. Open source. Community-driven.",
+    "joinMovement": "Sumali sa Aming Kilusan",
+    "or": "o",
+    "joinDiscord": "Sumali sa Discord",
+    "features": "🚀 Infrastructure • 💡 Mentorship • 🤝 Community • 🏢 Office Space"
+  }
+}

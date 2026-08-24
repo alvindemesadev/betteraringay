@@ -1,4 +1,14 @@
-# 🏛️ Local Government Website Starter Kit
+# 🏛️ BetterAringay.org — Municipality of Aringay, La Union
+
+> Transparency portal for **Aringay, La Union (Region I, 24 barangays, 50,380 citizens)** — built from the [BetterLocalGov Starter Kit](https://github.com/iyanski/betterlocalgov) and registered at [lgu.bettergov.ph](https://lgu.bettergov.ph). Live target: **https://betteraringay.org** (mirror of official **aringay.gov.ph**).
+>
+> **Status:** 🟡 Work in Progress — following [lgu.bettergov.ph/GUIDE](https://lgu.bettergov.ph/GUIDE) & [CONTRIBUTING](https://lgu.bettergov.ph/CONTRIBUTING). See `DIRECTORY_PR.md` for directory entry PR.
+
+**Quick links:** [Guide](https://lgu.bettergov.ph/GUIDE) • [Templates](https://lgu.bettergov.ph/TEMPLATES) • [Contributing](https://lgu.bettergov.ph/CONTRIBUTING) • Local `DEPLOYMENT-GUIDE.md` • `CONTENT-GUIDE.md`
+
+---
+
+# 🏛️ Local Government Website Starter Kit (upstream)
 
 A modern, multilingual, and accessible website template designed specifically for local government units (LGUs) in the Philippines. Built with React, TypeScript, and Tailwind CSS.
 

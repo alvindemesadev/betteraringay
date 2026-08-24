@@ -4,7 +4,16 @@
 pages:
   - name: 'Executive'
     slug: 'executive'
-    description: "Find out about your Mayor and Vice Mayor, including upcoming events, the Mayor's Community Assistance Program, mayoral history, and information about other historic roles in the local government unit."
+    description: "Meet Mayor Hon. Benjamin O. Sibuma and Vice Mayor Hon. Charito C. Sibuma — chief executive and presiding officer of Aringay, serving 50,380 citizens across 24 barangays (2025–2028 term)."
   - name: 'Legislative'
     slug: 'legislative'
-    description: 'As of the 2025–2028 term, the Sangguniang Panlungsod (City Council) of Lapu-Lapu City has 12 elected councilors, with the Vice Mayor as the presiding officer of the council.'
+    description: 'As of the 2025–2028 term, the Sangguniang Bayan of Aringay has 8 elected councilors plus ex-officio members, with the Vice Mayor as presiding officer.'
+  - name: 'Barangays'
+    slug: 'barangays'
+    description: 'Aringay has 24 barangays — from coastal Poblacion and Dulao to upland Basca and Gallano. Find officials, population, and hall contacts for each.'
+  - name: 'History & Culture'
+    slug: 'history-culture'
+    description: 'Coastal gateway to La Union — Aringay Beach, Kilawen Festival, and a 2nd-class municipality history spanning Lingayen Gulf.'
+  - name: 'Transparency & Budget'
+    slug: 'transparency'
+    description: 'Budgets, COA audit reports, procurement via PhilGEPS, and Freedom of Information releases for Aringay.' 

@@ -1,0 +1,53 @@
+{
+  "site_name": "Ili ti Aringay",
+  "site_description": "Probinsia ti La Union • Rehion I • 24 a Baranggay",
+  "hero": {
+    "title": "Naragsak nga Isasangbay iti BetterAringay.org",
+    "subtitle": "Portal ti transparency para iti Ili ti Aringay, La Union — 24 a baranggay iti igid ti Golpo ti Lingayen, para kadagiti 50,380 nga umili.",
+    "nationalId": "National ID",
+    "birthCertificate": "Sertipiko ti Pannakayanak",
+    "businessRegistration": "Panagrehistro ti Negosio"
+  },
+  "services": {
+    "title": "Serbisio ken Impormasion",
+    "governmentServices": "Serbisio ti Gobyerno",
+    "description": "Nalaka a biruken dagiti serbisio ti gobyerno — para kadagiti umili, negosio, edukasion, ken dadduma pay.",
+    "viewAll": "Kitaen Amin a Serbisio",
+    "viewAllCategory": "Kitaen Amin"
+  },
+  "governmentActivity": {
+    "title": "Aramid ti Gobyerno",
+    "description": "Agtalinaed a ma-update kadagiti kabaruan a damag ken aramid ti gobyerno."
+  },
+  "weather": {
+    "title": "Panagpuor ti Paniempo"
+  },
+  "forex": {
+    "title": "Sukat ti Kuarta"
+  },
+  "news": {
+    "title": "Kaudian a Damdamag"
+  },
+  "footer": {
+    "copyright": "© 2026 Ili ti Aringay, La Union. Content CC BY 4.0. Gastos kadagiti umili: ₱0."
+  },
+  "navbar": {
+    "government": "Gobyerno",
+    "services": "Serbisio",
+    "hotlines": "Hotlines",
+    "holidays": "Holidays"
+  },
+  "joinUs": {
+    "stripTitle": "🚀 Makipagkaykaysa iti #CivicTech Revolution",
+    "stripSubtitle": "Tumulong a mangbangon iti masakbayan ti Pilipinas babaen ti teknolohia",
+    "joinNow": "Makikaysa",
+    "discord": "Discord",
+    "bannerTitle": "Makipagkaykaysa iti #CivicTech Revolution",
+    "bannerSubtitle": "Tumulong a mangbangon iti masakbayan ti Pilipinas babaen ti teknolohia.",
+    "bannerHighlight": "Volunteer-led. Open source. Community-driven.",
+    "joinMovement": "Makikaysa iti Timpuyogmi",
+    "or": "wenno",
+    "joinDiscord": "Sumrek iti Discord",
+    "features": "🚀 Infrastructure • 💡 Mentorship • 🤝 Community • 🏢 Office Space"
+  }
+}

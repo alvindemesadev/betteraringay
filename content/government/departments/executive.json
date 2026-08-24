@@ -1,9 +1,13 @@
 {
-  "GOVERNMENT_NAME": "Lapu Lapu City",
-  "MAYOR": "Ma. Cynthia K. Chan",
-  "MAYOR_HE_SHE": "she",
+  "GOVERNMENT_NAME": "Municipality of Aringay, La Union",
+  "MAYOR": "Hon. Benjamin O. Sibuma",
+  "MAYOR_HE_SHE": "he",
   "HONORIFIC_TITLE": "Honorable",
-  "VICE_MAYOR": "Celedonio B. Sitoy",
-  "VICE_MAYOR_HE_SHE": "he",
-  "YEAR_ELECTED": "2022"
+  "VICE_MAYOR": "Hon. Charito C. Sibuma",
+  "VICE_MAYOR_HE_SHE": "she",
+  "YEAR_ELECTED": "2025",
+  "CONTACT_ADDRESS": "Marcos Avenue, Poblacion, Aringay, La Union 2503",
+  "CONTACT_PHONE": "(072) 607-9531",
+  "CONTACT_EMAIL": "lgu_aringay@yahoo.com",
+  "OFFICIAL_WEBSITE": "https://aringay.gov.ph"
 }

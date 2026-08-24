@@ -149,17 +149,16 @@ These roles reflect the legacy of leadership and public service within the commu
 # Contact the Mayor's Office
 
 **Office of the Mayor**
-City/Municipal Hall of **{GOVERNMENT_NAME}**
+Municipal Hall of **{GOVERNMENT_NAME}**
 
 **Address:**
-[STREET ADDRESS]
-[CITY / PROVINCE / POSTAL CODE]
+{CONTACT_ADDRESS}
 
 **Telephone:**
-[PHONE NUMBER]
+{CONTACT_PHONE} — alternate (072) 607-1986 — Emergency (072) 607-9531
 
 **Email:**
-[EMAIL ADDRESS]
+{CONTACT_EMAIL} / hrmoaringay21@gmail.com
 
 **Website:**
-[OFFICIAL WEBSITE URL]
+{OFFICIAL_WEBSITE} — transparency mirror: https://betteraringay.org
