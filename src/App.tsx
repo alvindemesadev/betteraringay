@@ -5,6 +5,7 @@ import InfoBar from './components/layout/InfoBar';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
 import Home from './pages/Home';
+import Quiz from './pages/Quiz';
 import ScrollToTop from './components/ui/ScrollToTop';
 import Services from './pages/Services';
 import Document from './pages/Document';
@@ -25,6 +26,7 @@ function App() {
             <ScrollToTop />
             <Routes>
               <Route path="/" element={<Home />} />
+              <Route path="/quiz" element={<Quiz />} />
               <Route path="/services/:category" element={<Services />} />
               <Route path="/services" element={<Services />} />
               <Route
