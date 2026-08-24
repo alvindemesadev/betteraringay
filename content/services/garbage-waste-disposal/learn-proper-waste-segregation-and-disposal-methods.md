@@ -1,73 +1,71 @@
-# Guidelines for Proper Waste Segregation and Disposal — Lapu-Lapu City
+# Waste Segregation & Disposal Guidelines — Municipality of Aringay
 
-Proper waste segregation is **mandatory** in Lapu-Lapu City under **Republic Act 9003 (Ecological Solid Waste Management Act)** and local ordinances. Following these rules helps keep the city clean, prevents flooding, and protects health.
-
----
-
-## 1) Waste Categories You Must Separate
-
-| Category                    | Examples                                                                         | How to Dispose                                                                                                     |
-| --------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Biodegradable**           | Food scraps, vegetable/fruit peelings, garden waste, paper towels                | Place in green container/biodegradable bin; collected by trucks; can also be composted at home/barangay MRF        |
-| **Recyclable**              | Plastic bottles, glass, tin/aluminum cans, paper, cartons, scrap metal           | Clean and dry before disposal; place in blue container/recyclable bin; bring to junkshops or barangay MRF          |
-| **Residual**                | Used diapers, styrofoam, plastic wrappers, sachets, contaminated paper, ceramics | Place in black container/residual bin; collected by trucks and sent to sanitary landfill                           |
-| **Special/Hazardous Waste** | Batteries, light bulbs, e-waste, paint cans, chemicals, medical waste            | Do **not** mix with regular waste; bring to barangay/CENRO special collection drives or accredited drop-off points |
+Proper segregation is **mandatory** under **RA 9003 (Ecological Solid Waste Management Act)** and **Aringay municipal ordinances**. Coastal municipality — waste that isn't segregated ends up in Lingayen Gulf.
 
 ---
 
-## 2) General Rules for Segregation
+## 1) Four Categories You Must Separate
 
-- **Always use labeled bins** or color-coded plastic bags (green = biodegradable, blue = recyclable, black = residual).
-- **Rinse recyclables** to avoid pests and foul odor.
-- **Do not burn waste** — open burning is prohibited under RA 9003 and the Clean Air Act.
-- **Put garbage out only on your barangay’s collection day** to avoid clutter and flooding.
-- For **bulk items (furniture, appliances)** → request a **special pickup** through your Barangay Hall or CENRO.
-- **Construction debris** must be hauled by accredited haulers; not allowed in household collection.
-
----
-
-## 3) Barangay Materials Recovery Facilities (MRFs)
-
-- Each barangay is required to operate an **MRF** to handle recyclables and compostables.
-- Residents can bring segregated recyclables and kitchen/garden waste to the MRF.
-- Some barangays have **“exchange programs”** (e.g., recyclables for rice or grocery packs).
+| Category              | Examples                                                      | How to Dispose in Aringay                                                                        |
+| --------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Biodegradable**     | Food scraps, peelings, garden waste, paper towels             | Green bin/biodegradable bag; collected by MENRO truck or compost at home/barangay MRF            |
+| **Recyclable**        | PET bottles, glass, tin/aluminum, paper, cartons, scrap metal | Rinse/dry, blue bin/recyclable bag; to barangay MRF or accredited junkshop (Poblacion/Dulao)     |
+| **Residual**          | Diapers, styrofoam, sachets, contaminated paper, ceramics     | Black bin/residual bag; truck to sanitary landfill (provincial)                                  |
+| **Special/Hazardous** | Batteries, bulbs, e-waste, paint, chemicals, medical waste    | **Do not mix** — to barangay/MENRO special collection drives or MENRO drop-off at Municipal Hall |
 
 ---
 
-## 4) For Businesses & Establishments
+## 2) General Rules
 
-- Must maintain **segregated waste bins** accessible to customers and staff.
-- Required to **contract accredited haulers** for industrial, medical, or hazardous waste.
-- Keep disposal receipts/hauler contracts for inspection by CENRO.
-- Restaurants/food-related establishments should explore **onsite composting** or regular turnover to barangay MRFs.
-
----
-
-## 5) Penalties for Non-Compliance
-
-- **Improper waste disposal or open dumping** can result in fines or penalties under city ordinances and RA 9003.
-- Repeated violations may lead to **business permit suspension** (for establishments).
+- Use **labeled bins or color-coded bags** (green=biodegradable, blue=recyclable, black=residual, red/yellow=special)
+- **Rinse recyclables** to avoid pests/odor
+- **Do not burn** — prohibited under RA 9003 & Clean Air Act
+- **Put out only on your zone's collection day**
+- **Bulk** (furniture, appliances) → **request special pickup** via Barangay Hall → MENRO
+- **Construction debris** — hauler responsibility, not household truck
 
 ---
 
-## 6) Quick Tips for Households
+## 3) Barangay MRFs (Materials Recovery Facilities)
 
-- Keep **3–4 labeled bins** at home (biodegradable, recyclable, residual, hazardous).
-- Reduce waste by avoiding single-use plastics; bring reusable bags/containers.
-- Compost biodegradable waste if you have space (simple backyard compost pit or container).
-- Encourage kids and household members to follow segregation as a habit.
-
----
-
-## Contact for Support
-
-- **City Environment and Natural Resources Office (CENRO)**  
-  Lapu-Lapu City Hall, Government Complex, Brgy. Pajo  
-  Phone: (032) 340-0004 (ask for CENRO)  
-  Updates via: [Lapu-Lapu City Information Office Facebook Page](https://www.facebook.com/lapulapucitygovernment)
+- Each of the **24 barangays** required to operate an **MRF** (per RA 9003) — Poblacion, Dulao, San Eugenio, Samara etc. have active MRFs; upland Basca/Gallano share clustered MRFs
+- Bring segregated recyclables and kitchen/garden waste to MRF
+- Some barangays run **palit-basura** (recyclables for rice/grocery) — ask your barangay hall
 
 ---
 
-### Key Reminder
+## 4) For Businesses & Beach Establishments
 
-✅ Proper segregation is a **shared responsibility**. By separating waste correctly, you help reduce landfill use, promote recycling, and keep Lapu-Lapu City safe and sustainable.
+- Maintain **segregated bins** for customers/staff (beach resorts in Dulao/Samara must have beachfront bins)
+- Contract **accredited haulers** for industrial/medical/hazardous waste (MENRO list)
+- Keep **receipts/contracts** for MENRO/BFP inspection
+- Eateries should compost or turnover biodegradable daily to MRF
+
+---
+
+## 5) Penalties
+
+- **Open dumping / improper segregation** → fines per municipal ordinance + RA 9003
+- Businesses with repeated violations → **business permit hold/suspension** via BPLO/MENRO
+
+---
+
+## 6) Household Tips
+
+- Keep **3–4 labeled bins** at home
+- Reduce single-use plastics; bring bayong/containers to Poblacion Public Market
+- Backyard compost pit for biodegradable (common in Basca, Gallano, Macabato farm households)
+- Teach household/kids daily segregation habit
+
+---
+
+## Contact — Aringay
+
+- **MENRO — Municipality of Aringay**
+  Municipal Hall, Marcos Avenue, Poblacion, Aringay, La Union 2503
+  **(072) 607-9531** — ask for MENRO
+  Updates: Municipal Hall bulletin, barangay halls, `facebook.com/betteraringay`
+
+---
+
+**Key Reminder:** Proper segregation is **shared responsibility** — reduces landfill, protects Lingayen Gulf, and keeps Aringay clean for Kilawen Festival and daily life.

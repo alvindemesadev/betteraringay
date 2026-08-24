@@ -1,65 +1,57 @@
-# Report Illegal Dumping & Waste Management Violations — Lapu-Lapu City
+# Report Illegal Dumping & Waste Violations — Municipality of Aringay
 
-Illegal dumping, open burning, and improper waste practices are violations of **Republic Act 9003 (Ecological Solid Waste Management Act)** and city ordinances. Residents are encouraged to report offenders to help keep Lapu-Lapu City clean and safe.
+Illegal dumping, open burning, beach littering, and improper disposal violate **RA 9003** and **Aringay ordinances**. Report to keep Lingayen Gulf and your barangay clean.
 
 ---
 
 ## 1) What to Report
 
-| Violation                           | Examples                                                                                              |
-| ----------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Illegal dumping**                 | Throwing trash in vacant lots, rivers, canals, sidewalks, or open spaces                              |
-| **Open burning**                    | Burning household or yard waste, plastics, or tires                                                   |
-| **Improper disposal by businesses** | Mixing segregated waste, throwing garbage outside collection days, failing to hire accredited haulers |
-| **Hazardous waste violations**      | Disposing of batteries, chemicals, medical waste with household trash                                 |
-| **Uncollected garbage sites**       | Overflowing bins or uncollected waste attracting pests                                                |
+| Violation               | Examples                                                                                                           |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Illegal dumping**     | Throwing trash in vacant lots, rivers/creeks (Aringay River), canals, roadsides, beach (Dulao/Samara), open spaces |
+| **Open burning**        | Burning household/yard/waste plastics                                                                              |
+| **Business violations** | Mixing segregated waste, putting out on non-collection days, no accredited hauler                                  |
+| **Hazardous**           | Batteries, chemicals, medical waste mixed with household                                                           |
+| **Uncollected sites**   | Overflowing bins, uncollected piles attracting pests                                                               |
 
 ---
 
-## 2) How to Report
+## 2) How to Report — Aringay
 
-1. **Barangay Level (First Step)**
-   - Go to your **Barangay Hall** or message the **Barangay Facebook Page**.
-   - Ask for the **Barangay Environment/Solid Waste Committee**.
-   - Provide: **exact location**, **type of violation**, **time/date**, and **photos/videos** if possible.
+1. **Barangay Hall (first step)**
+   Walk in or message **Barangay FB/GC** → **Barangay Solid Waste / Environment Committee**
+   Provide: **exact purok/sitio, landmark, type, date/time, photos/video** if safe to take
 
-2. **City Environment and Natural Resources Office (CENRO)**
-   - If the violation is large-scale, recurring, or unaddressed by the barangay, contact **CENRO** at City Hall.
-   - Phone: (032) 340-0004 (City Hall trunkline, ask for CENRO)
-   - Updates and announcements: [Lapu-Lapu City Government Facebook Page](https://www.facebook.com/lapulapucitygovernment)
+2. **MENRO — Municipality of Aringay**
+   For large/recurring/unaddressed issues:
+   **Municipal Hall, Marcos Ave, Poblacion** — **(072) 607-9531** ask for MENRO — lgu_aringay@yahoo.com
+   Also via **Barangay endorsement** to MENRO
 
-3. **Other Hotlines**
-   - **City Information Office (CIO):** (032) 340-1615 (for reports and follow-up).
-   - **Philippine National Police (PNP):** for dumping that threatens public safety or involves large-scale transport.
+3. **Other channels**
+   - **MDRRMO / PNP Aringay** — if dumping blocks drainage or during disaster ops
+   - **DENR-CENRO San Fernando** — for river/coastal large-scale dumping
 
 ---
 
-## 3) What Happens After Reporting
+## 3) What Happens After
 
-- **Barangay/CENRO inspection team** will visit the site.
-- **Offenders may be fined or penalized** under city ordinances.
-- For businesses, repeated violations can lead to **closure or suspension of business permits**.
-- Collected evidence (photos, witness accounts) strengthens enforcement action.
+- **Barangay/MENRO inspector** visits site (often with barangay tanod)
+- **Offender fined** per municipal ordinance + RA 9003; businesses may face **permit action via BPLO**
+- Photos/witness accounts strengthen case
 
 ---
 
 ## 4) Tips for Effective Reporting
 
-- Take **clear photos or videos** (include street names/landmarks).
-- Note the **time and date** you saw the violation.
-- Submit your **name and contact info** if you want updates (anonymous tips are still accepted).
-- Encourage neighbors to also report — multiple reports prompt quicker action.
+- Clear **photos/video with landmark/street/purok**, date/time stamp
+- **Contact info** if you want update (anonymous accepted)
+- Encourage neighbors to co-report — multiple reports prioritized
 
 ---
 
-## 5) Penalties (as a reminder)
+## 5) Penalties (Aringay)
 
-- **Illegal dumping & open burning**: Fines and/or community service.
-- **Businesses without accredited haulers**: Higher penalties, possible permit suspension.
-- **Repeat offenders**: May face higher fines, legal cases, or closure orders.
+- **Illegal dumping / open burning:** fines per ordinance + community service; repeat → higher fine / case
+- **Business without hauler:** higher penalty, possible **Mayor's Permit hold**
 
----
-
-### Key Reminder
-
-✅ Reporting waste violations is a **civic duty**. By promptly alerting your barangay or CENRO, you help protect your community’s health, prevent flooding, and keep Lapu-Lapu City sustainable.
+**Key Reminder:** Reporting is **civic duty** — protects health, prevents flooding, and keeps Aringay beach and farms clean.

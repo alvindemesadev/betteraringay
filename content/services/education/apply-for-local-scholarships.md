@@ -1,112 +1,87 @@
-# Apply for Local Scholarships — Lapu-Lapu City
+# Apply for Scholarships & Educational Assistance — Municipality of Aringay
 
-Use this guide to find **City/LGU**, **Congressional/partner**, **local college**, and **national** scholarship options you can apply for while based in **Lapu-Lapu City**.
-
----
-
-## 1) City/LGU Scholarship Programs
-
-| Program                                           | Who it’s for                                                                                           | What it covers\*                                                          | Where to apply                  | Notes                                                                                                                                                                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lapu-Lapu City Government College Scholarship** | Lapu-Lapu City residents (typically Senior High / incoming college; priority to low-income households) | Tuition/fees or full scholarship, depending on intake and partner schools | City Hall / posted online calls | The city has historically opened slots for poor residents and tied these to local HEIs during certain intakes. Check latest calls from City Hall / Office of the Mayor. :contentReference[oaicite:0]{index=0} |
-
-\*Coverage varies by year/partner school; always verify the current announcement.
-
-**How to apply (typical flow)**
-
-1. Watch for the **official call for applications** from the **Lapu-Lapu City Government** (FB/website or City Information Office). :contentReference[oaicite:1]{index=1}
-2. Prepare documents (see **Common Requirements** below).
-3. Submit your application at the designated **LGU window/online form** and attend evaluation/orientation if shortlisted.
+Use this guide to find **LGU Aringay / Provincial / National** scholarship and assistance you can apply for while residing in **Aringay, La Union (Region I)**.
 
 ---
 
-## 2) Congressional / Partner Scholarship Slots
+## 1) LGU Aringay & Provincial Programs
 
-| Program                                                                                       | Who it’s for                                   | What it covers                                          | Where to apply                                                                   | Notes                                                                                                                |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Mayor Junard “Ahong” Chan & First Lady Ma. Cynthia King-Chan Scholarship** (periodic calls) | City residents, course/partner-school specific | Tuition assistance/full scholarship depending on cohort | Calls posted by the **Office of the Mayor** / **Office of Rep. Cindi King-Chan** | Look for official FB announcements with the **requirements and deadlines**. :contentReference[oaicite:2]{index=2}    |
-| **International/partner school opportunities**                                                | Senior High/college grads                      | Tuition discounts/scholarships via MOUs                 | Via partner school announcements & City coordination                             | Example: Taiwan partner university opportunities highlighted by city partners. :contentReference[oaicite:3]{index=3} |
+| Program                                                                          | Who it's for                                                                      | What it covers*                                                    | Where to apply                                                                                                  | Notes                                                     |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| **Municipality of Aringay Educational Assistance** (MSWDO / Office of the Mayor) | Aringay residents — Senior High, incoming/continuing college, priority low-income | Cash assistance / tuition aid per intake (amount varies by budget) | **MSWDO, Municipal Hall, Marcos Ave, Poblacion** — watch LGU FB `facebook.com/betteraringay` / `aringay.gov.ph` | Periodic calls; requires barangay indigency & school docs |
+| **Provincial Government of La Union Scholarship / Educational Assistance**       | La Union residents (including Aringay)                                            | Tuition/stipend per program                                        | **Provincial Capitol, Aguila Rd, San Fernando City** — Provincial Government of La Union announcements          | Check provincial FB / launion.gov.ph                      |
+| **Sangguniang Bayan Scholarship Resolution slots** (if any)                      | Aringay youth via SB Education Committee                                          | As resolved per term                                               | Sangguniang Bayan, Municipal Hall                                                                               | Ask SB Secretary for current resolution                   |
 
----
+*Coverage varies by year/budget; always verify the posted call.
 
-## 3) Local Colleges & Their In-House Scholarships
+**How to apply (typical LGU/Provincial flow)**
 
-| School                                         | Scholarship page/info                                                        | Notes                                                                                                                                 |
-| ---------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lapu-Lapu City College (LLCC)**              | School site lists contacts; ask registrar/scholarship desk for current slots | City college; scholarship rules and timing set per semester. :contentReference[oaicite:4]{index=4}                                    |
-| **University of Cebu** (Mactan/Main system)    | Public scholarship lists & requirements                                      | UC posts scholarship requirements (e.g., academic honors, docs). Availability varies by campus. :contentReference[oaicite:5]{index=5} |
-| **LCIC (Lapulapu-Cebu International College)** | Scholarship page with program specifics                                      | Has its own discounts/scholarships; separate from LGU. :contentReference[oaicite:6]{index=6}                                          |
-
-> Tip: Even if you’re targeting an **LGU scholarship**, apply to your target school’s **in-house scholarship** too. Slots stack or complement depending on rules.
+1. Watch for **official call** from MSWDO / Mayor's Office or Provincial Capitol
+2. Prepare docs (see Common Requirements below)
+3. Submit at **MSWDO window** or **Provincial Capitol** and attend evaluation if shortlisted
 
 ---
 
-## 4) National Programs You Can Apply For While Based in Lapu-Lapu
+## 2) Schools Near Aringay & Their In-House Aid
 
-| Program                                                             | Who it’s for                                                  | Typical coverage                                          | Where to file                                                                                                               |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| **CHED Merit Scholarship (CMSP)**                                   | Incoming/continuing college with merit + income criteria      | Stipend + book/tuition assistance (per CHED rules)        | CHED’s official calls/portals (watch national page) :contentReference[oaicite:7]{index=7}                                   |
-| **OWWA EDSP/ODSP** (for OFW dependents)                             | Qualified dependents of active OWWA members                   | EDSP up to ₱60k/yr; ODSP up to ₱20k/yr (amounts per call) | OWWA Scholarship portal; local **PESO Lapu-Lapu** often posts the call window :contentReference[oaicite:8]{index=8}         |
-| **Cebu Province scholarships** (if eligible as provincial resident) | Cebu Province residents (check city/province residency rules) | Tuition/stipend per program                               | Province announcements; verify residency eligibility vs. highly urbanized city status :contentReference[oaicite:9]{index=9} |
+| School                                                                                                                   | Notes                                                                                 | Where to ask                                        |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **Don Mariano Marcos Memorial State University (DMMMSU)** — Mid La Union (Agoo) / South La Union (San Fernando) campuses | State university — **free tuition** under Universal Access (RA 10931) + CHED grantees | Registrar / Scholarship Office, DMMMSU              |
+| **La Union National High School & Aringay National High School cluster**                                                 | For SHS; guidance office posts scholarship calls                                      | School guidance counselor                           |
+| **TESDA La Union**                                                                                                       | Technical-vocational scholarships (TWSP, PESFA, STEP)                                 | TESDA Provincial Office, San Fernando; PESO Aringay |
+
+> Tip: Even if targeting **LGU aid**, also apply to your school's **in-house/TES/CHED** slots — they can complement each other.
 
 ---
 
-## Common Requirements (have these ready)
+## 3) National Programs You Can Apply For While Based in Aringay
 
-- **Proof of residency** (Barangay Certificate)
-- **Birth certificate** (PSA)
-- **Report card/grades** (JHS/SHS/college)
+| Program                                                                                      | Who it's for                                              | Typical coverage                            | Where to file                                                 |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------- |
+| **CHED Merit Scholarship (CMSP)** / **Tertiary Education Subsidy (TES)** / **Tulong Dunong** | Incoming/continuing college with merit + income criteria  | Stipend + tuition assistance per CHED rules | CHEDRO I (San Fernando) / ched.gov.ph                         |
+| **DOST-SEI S&T Undergraduate Scholarship**                                                   | Grade 12 STEM students                                    | Tuition + stipend + book allowance          | DOST-SEI portal; DOST Region I                                |
+| **OWWA EDSP/ODSP** (OFW dependents)                                                          | Dependents of active OWWA members (many Aringay families) | EDSP up to ₱60k/yr, ODSP up to ₱20k/yr      | OWWA Regional Office I, San Fernando; PESO Aringay posts call |
+| **DSWD Educational Assistance (AICS)**                                                       | Students in crisis                                        | Cash aid per assessment                     | DSWD Field Office I, San Fernando / MSWDO Aringay referral    |
+
+---
+
+## Common Requirements (have ready)
+
+- **Proof of residency** — Barangay Certificate (from your 24 barangays) + Cedula
+- **PSA Birth Certificate**
+- **Report card / Certificate of Grades / Enrollment Certificate**
 - **Good moral certificate** (from school)
-- **Income documents** (parents’ ITR/Certificate of Non-Filing/indigency, depending on program)
-- **Photos/ID** (2×2 or passport size)
-- **Admission/Enrollment proof** (if already admitted)
+- **Income documents** — parents' ITR / Certificate of Low Income / Barangay Certificate of Indigency (from MSWDO)
+- **Photos/ID** (2×2)
+- **Admission proof** (if already enrolled)
 
-(Exact lists vary per program; always follow the posted checklist.)
+_Exact lists vary per program; follow the posted checklist._
 
 ---
 
 ## Step-by-Step: How to Apply
 
-1. **Pick your target programs**
-   - City/LGU scholarship (watch City Hall channels), school-based scholarship, and at least one national program.
-
-2. **Check the current call**
-   - Read the **eligibility, coverage, and deadline**. Save the announcement.
-
-3. **Assemble documents**
-   - Use the checklist above; request certificates early (Barangay, School Registrar, BIR/Barangay for income).
-
-4. **Submit**
-   - Follow the **specified portal or window**. Keep digital scans (PDF) for online filing.
-
-5. **Monitor & attend screening**
-   - Answer calls/emails, attend orientation/interviews, and **sign the scholarship agreement** if accepted.
-
-6. **Comply every term**
-   - Maintain the **required GWA**, submit grade reports on time, and **renew** each semester/year.
+1. **Pick target programs** — LGU Aringay aid + DMMMSU/TESDA + one national (CHED/DOST/OWWA/DSWD)
+2. **Check current call** — read eligibility, coverage, deadline; save announcement
+3. **Assemble documents** — request barangay/school/BIR docs early (barangay halls Mon–Fri 8AM–5PM)
+4. **Submit** — MSWDO window (Municipal Hall) or online portal as specified; keep PDF scans
+5. **Monitor & attend screening** — answer calls, attend interview/orientation, sign agreement if accepted
+6. **Comply every term** — maintain GWA, submit grades on time, renew each semester
 
 ---
 
-## Where to Watch for Announcements
+## Where to Watch for Announcements — Aringay
 
-- LCIC’s website → “Scholarship” section
-- University of Cebu’s “Scholarship & Study Grants” page
-- DepEd Lapu-Lapu City’s official site / memorandums
-- City Government announcements (City Hall / Information Office)
-
----
-
-### Example Applications Available Now
-
-- [LCIC Scholarship Page](https://lcic.edu.ph/scholarship.html)
-- [UC Scholarships & Study Grants](https://www.universityofcebu.net/p/scholarship.html)
-- [DOST-SEI S&T Scholarship (Grade 12 applicants)](https://depedlapulapu.net.ph/download/dm-no-723-s-2024-2025-dost-sei-s-t-undergraduate-scholarship-applications-for-grade-12-senior-high-school-students/)
-- [English Access Program (DepEd Lapu-Lapu)](https://depedlapulapu.net.ph/download/dm-no-064-s-2025-english-access-scholarship-program/)
+- **MSWDO Aringay / Office of the Mayor** — Municipal Hall, Marcos Ave — (072) 607-9531
+- **PESO Aringay** — jobs/scholarship postings, Municipal Hall
+- **DMMMSU** scholarship pages + **DepEd La Union** division memos (depedlaunion.com)
+- **Provincial Government of La Union** FB / launion.gov.ph
+- **CHEDRO I, DOST-I, OWWA RWO I, DSWD FO I** — all San Fernando City
 
 ---
 
-### Reminders
+## Reminders
 
-- **Deadlines change every cycle.** Always follow the **current** call post.
-- **Coverage differs by program & year.** Read the fine print (tuition vs. full).
-- **Apply to multiple programs** to improve your chances and coverage.
+- **Deadlines change every cycle** — follow the current post, not last year's.
+- **Coverage differs by year** — tuition vs full stipend; read fine print.
+- **Apply to multiple programs** to improve chances — LGU + provincial + national can stack depending on rules.

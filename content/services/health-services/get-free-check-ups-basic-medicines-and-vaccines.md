@@ -1,41 +1,66 @@
-# Lapu-Lapu City Government: Free Health Services
+# Free Check-ups, Medicines & Vaccines — Rural Health Unit, Aringay
 
-The Lapu-Lapu City Government offers free **check-ups, medicines, and vaccines** through the City Health Office (CHO), barangay health centers, and partner programs.
-
----
-
-## 1. Free Medical Check-ups
-
-| Service              | Where                        | Schedule                                     | Requirements                                              |
-| -------------------- | ---------------------------- | -------------------------------------------- | --------------------------------------------------------- |
-| General consultation | City/Barangay Health Centers | Mon–Fri, 8 AM–5 PM (varies by health center) | Individual Treatment Record (ITR) — issued on first visit |
+The **Municipality of Aringay** provides **free check-ups, basic medicines, and vaccines** via **RHU (Rural Health Unit) – Municipal Health Office (MHO)** and the **24 Barangay Health Stations (BHS)**.
 
 ---
 
-## 2. Free Basic Medicines
+## What You Need to Know
 
-| Service                                          | Where                                    | Schedule           | Requirements                                                                                     |
-| ------------------------------------------------ | ---------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
-| Free basic medicines                             | City Health Office (CHO) pharmacy        | Mon–Fri, 8 AM–5 PM | Doctor’s prescription and/or referral from hospital/clinic                                       |
-| Medicines for indigent seniors (MAIFIPP program) | Partner pharmacies (Basak, Carajay, Ibo) | Pharmacy hours     | Must be an indigent senior citizen, bona fide resident; coverage caps (e.g., ₱3,000 out-patient) |
-
----
-
-## 3. Free Vaccines & Immunization
-
-| Beneficiary       | Vaccine/Service                                          | Where                        | Schedule                        | Requirements                                             |
-| ----------------- | -------------------------------------------------------- | ---------------------------- | ------------------------------- | -------------------------------------------------------- |
-| Children          | BCG, Pentavalent, OPV/IPV, MMR, Hepatitis B, PCV13 (EPI) | Barangay Health Centers      | Typically Wednesdays, 8 AM–4 PM | ECCD card (first-timers can get one onsite)              |
-| Pregnant women    | Tetanus Toxoid vaccine + supplements                     | Barangay Health Centers      | During prenatal services        | Proof of pregnancy, ECCD/record                          |
-| Animal bite cases | Anti-rabies vaccine (first dose free)                    | Animal Bite Treatment Center | Clinic hours                    | Proof of Lapu-Lapu residency (e.g., voter’s certificate) |
+| Information | Details                                                                                                               |
+| ----------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Where**   | RHU, Municipal Hall Compound, Marcos Ave, Poblacion + BHS in each barangay cluster (San Eugenio, Dulao, Samara, etc.) |
+| **When**    | Mon–Fri 8AM–5PM; BHS often Mon/Wed/Fri mornings — confirm at barangay hall                                            |
+| **Cost**    | Free (DOH/LGU-funded) — bring prescription/ID                                                                         |
+| **Contact** | RHU Aringay via Municipal Hall (072) 607-9531 — ask for MHO                                                           |
 
 ---
 
-## How to Avail
+## 1) Free Medical Check-ups
 
-1. **Check-ups** → Go to your Barangay Health Center or City Health Office; first-timers will be issued an ITR.
-2. **Medicines** → Bring a doctor’s prescription/referral; submit at CHO pharmacy window.
-3. **Child immunization** → Visit your barangay health center on immunization day with ECCD card.
-4. **Pregnancy services** → Attend prenatal visits at the barangay health center for free vaccine and supplements.
-5. **Anti-rabies** → Report to the Animal Bite Treatment Center; bring proof of residency.
-6. **Senior citizen medicines** → Visit participating partner pharmacies; follow MAIFIPP guidelines.
+| Service                              | Where     | Schedule                     | Requirements                                                      |
+| ------------------------------------ | --------- | ---------------------------- | ----------------------------------------------------------------- |
+| General consultation (adult & child) | RHU + BHS | Mon–Fri 8AM–5PM (BHS varies) | First-timers issued **Individual Treatment Record (ITR)** on site |
+
+**How:** Walk in to RHU or your BHS; bring valid ID / barangay certificate; first visit = ITR creation.
+
+---
+
+## 2) Free Basic Medicines
+
+| Service                                                    | Where                                         | Schedule        | Requirements                                             |
+| ---------------------------------------------------------- | --------------------------------------------- | --------------- | -------------------------------------------------------- |
+| Essential medicines (DOH/LGU)                              | RHU pharmacy                                  | Mon–Fri 8AM–5PM | Doctor's prescription / RHU referral                     |
+| Senior/PWD/indigent aid (MAIFIP / AICS referral via MSWDO) | RHU → referral to partner pharmacies/hospital | Referral hours  | Barangay Indigency + ID + prescription; MSWDO assessment |
+
+_Stocks depend on DOH/LGU supply; RHU will advise if referred to San Fernando / Agoo._
+
+---
+
+## 3) Vaccines & Immunization (EPI)
+
+| Beneficiary                   | Vaccine/Service                             | Where                                                           | Schedule                                          | Requirements                                    |
+| ----------------------------- | ------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------- |
+| Children (0–12mos + boosters) | BCG, Pentavalent, OPV/IPV, MMR, HepB, PCV13 | BHS + RHU                                                       | Typically **Wednesdays** 8AM–12NN (varies by BHS) | ECCD/Immunization card (newborns issued onsite) |
+| Pregnant women                | Tetanus Toxoid + iron/folate                | BHS during prenatal                                             | During prenatal visits                            | Proof of pregnancy                              |
+| Animal bite / rabies          | Anti-rabies first dose (free) + referral    | RHU → **Animal Bite Treatment Center (ABTC) San Fernando/Agoo** | RHU hours; ABTC daily                             | Incident report; bite wound care at RHU first   |
+
+Aringay RHU is **not** a full ABTC — animal bite cases are **triaged at RHU then referred to ABTC La Union** (San Fernando City or Agoo) for full course; first dose may be given at RHU if available.
+
+---
+
+## How to Avail — Aringay
+
+1. **Check-up:** Go to **RHU or BHS** — first timers get ITR
+2. **Medicines:** Present **RHU prescription** at RHU pharmacy window
+3. **Child immunization:** BHS on Wednesday (bring ECCD card + child's birth cert)
+4. **Prenatal:** Regular visits at BHS/RHU for free TD vaccine + supplements
+5. **Animal bite:** Wash wound, go to **RHU immediately** (within hours) — bring barangay certificate/ID; follow referral to ABTC
+6. **Senior/PWD:** MSWDO → RHU → referral if beyond RHU stock
+
+---
+
+## Related
+
+- [Maternal Care & Child Immunization](access-maternal-care-and-child-immunization)
+- [Health Programs: Nutrition, Dengue, TB](join-health-programs-nutrition-dengue-control-tb-treatment)
+- [Go to Hospital for Confinement](go-to-the-local-hospital-for-treatment-or-confinement)

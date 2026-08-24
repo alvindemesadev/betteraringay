@@ -1,78 +1,79 @@
-# Enroll Children in LGU Daycare or Preschool Programs — Lapu-Lapu City
+# Enroll Children in Daycare & Preschool — Municipality of Aringay
 
-The Lapu-Lapu City Government, through the **City Social Welfare and Development Office (CSWDO)** and barangays, operates **daycare centers** and supports **public preschool education**.
+The Municipality of Aringay, through **MSWDO (Municipal Social Welfare and Development Office)** and the 24 barangays, operates **Child Development Centers / Daycare Centers**, and with **DepEd La Union** supports **public kindergarten** in elementary schools.
 
 ---
 
-## 1) LGU Daycare Programs
+## 1) Barangay Child Development / Daycare Centers (Ages 3–4)
 
-**What’s offered**
+**What's offered**
 
-- Early childhood care and development for children aged **3–4 years old**.
-- Daily activities on socialization, basic learning skills, play-based lessons, and health/nutrition monitoring.
-- Free or minimal-cost supplementary feeding (depending on barangay program).
+- Early childhood care for **3–4 year olds** — play-based learning, early literacy/numeracy, values, health & nutrition monitoring
+- Supervised by **Child Development Workers (CDWs)** accredited by ECCD Council / DSWD
+- Supplementary feeding (DSWD/MSWDO) where funded
 
 **Who can join**
 
-- Children aged **3–4 years old** who are residents of the barangay.
-- Priority is often given to **indigent families** or those referred by barangay officials.
+- Residents of the barangay, age 3–4 by opening of classes
+- Priority: indigent families, solo parents, PWD families — referred by barangay/MSWDO
 
 **Requirements (typical)**
 
-- Child’s **birth certificate** (PSA copy or local civil registrar copy).
-- **Barangay clearance** or proof of residency.
-- 1×1 ID photo of the child (for records).
-- Filled-out **Daycare Enrollment Form** (available at the center).
+- Child's **PSA birth certificate** (or LCR copy)
+- **Barangay Certificate** / proof of residency
+- 1×1 ID photo of child
+- Filled **Daycare Enrollment Form** (available at center / barangay hall)
 
 **How to enroll**
 
-1. Visit your **Barangay Daycare Center** or **Barangay Hall** to ask for the enrollment schedule.
-2. Submit required documents and fill out the enrollment form.
-3. Attend the orientation session for parents/guardians (usually held before classes start).
+1. Visit your **Barangay Hall / Daycare Center** (Poblacion, San Eugenio, Dulao, Basca, Gallano, etc.) — ask for enrollment schedule (usually May–June)
+2. Submit docs + fill form
+3. Attend parent/guardian orientation before classes start
 
-**Cost:** Free (LGU-funded), though some barangays may request voluntary contributions for class materials.
+**Cost:** Free (LGU-funded); voluntary contributions for materials may be requested by some barangays — not required.
 
 ---
 
-## 2) Public Preschool (Kindergarten)
+## 2) Public Kindergarten (DepEd, Age 5)
 
-**What’s offered**
+**What's offered**
 
-- Department of Education (DepEd) **Kindergarten Program** for **5-year-old children**, implemented in public elementary schools.
-- Focus on school readiness: literacy, numeracy, and social skills.
+- DepEd **Kindergarten Program** for **5-year-olds** by school opening — school readiness (literacy, numeracy, social skills)
 
 **Who can join**
 
-- Children aged **5 years old** by the opening of the school year.
-- Priority for residents within the school’s catchment area.
+- Child turns **5** on/before cut-off set by DepEd for the school year
+- Priority residents within catchment of the public elementary school (each barangay cluster has an elementary school)
 
-**Requirements (typical DepEd)**
+**Requirements (DepEd)**
 
-- Child’s **birth certificate** (PSA).
-- Proof of residency (Barangay Certificate).
-- 2×2 ID photo of the child.
-- Accomplished **DepEd Kindergarten Registration Form** (given at school).
+- PSA **birth certificate**
+- **Barangay Certificate** of residency
+- 2×2 ID photo
+- **DepEd Kindergarten Registration Form** (at school) + Early Childhood checklist if from daycare
 
 **How to enroll**
 
-1. Proceed to the **nearest public elementary school** during the announced **DepEd early registration** or regular enrollment period.
-2. Submit required documents to the school registrar.
-3. Attend orientation for parents and guardians.
+1. Go to **nearest public elementary school** (e.g., Aringay Central Elementary, San Eugenio ES, Dulao ES, etc.) during **DepEd Early Registration** (usually Jan–Feb) or regular enrollment (May–June)
+2. Submit docs to registrar/adviser
+3. Attend parent orientation
 
-**Cost:** Free (government-funded).
+**Cost:** Free
 
 ---
 
-## Contact & Updates
+## Contact & Updates — Aringay
 
-- **Barangay Daycare Centers** — Enrollment schedules and requirements are usually announced by barangay officials.
-- **City Social Welfare and Development Office (CSWDO)** — Oversees daycare programs.
-- **DepEd Lapu-Lapu City Division** — Manages public kindergarten enrollment.
+- **MSWDO Aringay** — oversees daycare / Child Development Centers
+  Municipal Hall, Marcos Avenue, Poblacion, Aringay 2503 — (072) 607-9531 lgu_aringay@yahoo.com
+- **Barangay Halls / Daycare Centers** — 24 barangays, Mon–Fri 8AM–5PM
+- **DepEd La Union — Aringay District (East/Central)** — public kindergarten enrollment
+  Schools Division Office, Aguila Rd, San Fernando City (division) + your barangay elementary school
 
 ---
 
 ### Quick Tips
 
-- Enroll early — daycare and preschool slots may be limited per barangay/school.
-- Keep copies of your child’s **birth certificate** and **barangay certificate** ready.
-- Attend parent orientations to understand your role in supporting your child’s early education.
+- Enroll early — slots per center/school limited, especially Poblacion/Dulao/San Eugenio
+- Keep **PSA birth certificate + barangay certificate** ready (photocopies)
+- Attend orientations — ECCD emphasizes parent participation in early learning

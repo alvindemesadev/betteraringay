@@ -1,49 +1,48 @@
-# Access Maternal Care & Child Immunization — Lapu-Lapu City
+# Maternal Care & Child Immunization — RHU & Barangay Health Stations, Aringay
 
-The City Health Office (CHO) and barangay health centers provide **prenatal care**, **family planning**, and **free routine child immunization** for residents.
-
----
-
-## Maternal Care (Prenatal & Related Services)
-
-| Service                                                             | Where                       | Schedule                                                               | Requirements                                    | Cost                                                       |
-| ------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------- |
-| Prenatal check-ups (by midwife/nurse; physician referral as needed) | **Barangay Health Centers** | Mon–Fri (typical clinic hours; varies by center)                       | Prenatal record (issued/updated at first visit) | **Free**                                                   |
-| Family Planning counseling & methods                                | **Barangay Health Centers** | Mon–Fri **8:00 AM–4:00 PM**; Sat **8:00 AM–1:00 PM** (except holidays) | Personal appearance for counseling              | **Free** counseling (methods per DOH program availability) |
-
-**Tip:** Bring any previous prenatal card/records and a valid ID. If you’re new, staff will register you and issue the needed record at the health center.
+**RHU Aringay (MHO)** and **24 Barangay Health Stations (BHS)** provide **prenatal, family planning, and free child immunization** for Aringay residents — daily at RHU, on schedule at BHS.
 
 ---
 
-## Child Immunization (EPI)
+## Maternal Care (Prenatal & Family Planning)
 
-Routine childhood vaccines are provided **free** under the Expanded Program on Immunization (EPI).
+| Service                                                                      | Where                                                                 | Schedule                                                                 | Requirements                                       | Cost                                               |
+| ---------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------- | -------------------------------------------------- |
+| Prenatal check-ups (midwife/nurse; referral to physician/ITRMC if high-risk) | **BHS** (your barangay) + **RHU, Municipal Hall Compound, Poblacion** | Mon–Fri clinic hours; BHS often Mon/Wed/Fri mornings — ask barangay hall | Prenatal record (issued at first visit) + valid ID | **Free**                                           |
+| Family Planning counseling & methods                                         | **BHS** + **RHU**                                                     | Mon–Fri 8AM–4PM (RHU); BHS as posted                                     | Personal appearance for counseling                 | **Free** counseling; methods per DOH program stock |
 
-| Age/Visit                          | Vaccines (examples)                                                        | Where                       | Regular Day/Time                                  | Requirements                          | Cost     |
-| ---------------------------------- | -------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------- | ------------------------------------- | -------- |
-| Birth–12 months (per DOH schedule) | **BCG**, **Pentavalent**, **OPV/IPV**, **MMR**, **Hepatitis B**, **PCV13** | **Barangay Health Centers** | **Wednesdays, 8:00 AM–4:00 PM** (except holidays) | **ECCD card** (issued on first visit) | **Free** |
+**Tip:** Bring previous prenatal card if any; new mothers registered onsite. RHU encourages **facility-based delivery** — ask midwife for birthing facility referral (RHU → La Union Medical Center Agoo / ITRMC San Fernando for higher-level care).
 
-> First time? The health worker will **issue an ECCD card** and guide you on next-dose return dates.
-
----
-
-## How to Avail (Quick Steps)
-
-1. **Go to your Barangay Health Center** during clinic hours (or the posted EPI day for vaccines).
-2. **Register/Update your record:** Prenatal record for mothers, **ECCD card** for children (issued if first time).
-3. **Receive service:** Prenatal assessment, counseling (and TT vaccine/supplements per program), or child vaccination per EPI schedule.
-4. **Book your return date** for follow-ups and next vaccine doses as advised by the health staff.
+Aringay RHU is **primary care** — high-risk pregnancies/complications referred to **Provincial/Regional hospital** with ambulance via MDRRMO (072) 607-9531.
 
 ---
 
-## Notes & Extras
+## Child Immunization (EPI — Free)
 
-- **Medical consultations** at health centers are **free** (Mon–Fri, 8:00 AM–5:00 PM; center schedules apply). Useful if you need a doctor’s assessment alongside prenatal care.
-- The CHO and health centers also run **mother’s classes** and promote **facility-based delivery**; ask your midwife for schedules.
+| Age/Visit                                     | Vaccines                                        | Where         | Regular Day/Time                                                    | Requirements                                    | Cost     |
+| --------------------------------------------- | ----------------------------------------------- | ------------- | ------------------------------------------------------------------- | ----------------------------------------------- | -------- |
+| Birth–12 months & boosters (per DOH schedule) | **BCG, Pentavalent, OPV/IPV, MMR, HepB, PCV13** | **BHS + RHU** | **Wednesdays 8AM–12NN** typically (varies by BHS) — except holidays | **ECCD/Immunization card** (issued first visit) | **Free** |
+
+First time? BHS will issue **ECCD card** and note next-dose return date.
+
+**Bring:** child's PSA birth cert (or barangay cert), ECCD card, parent ID.
 
 ---
 
-**References**
+## How to Avail
 
-- [Lapu-Lapu City Government – Services](https://lapulapucity.gov.ph)
-- [Department of Health – Expanded Program on Immunization](https://doh.gov.ph)
+1. **Go to BHS/RHU** during clinic hours / EPI Wednesday
+2. **Register:** Prenatal record for mothers, ECCD card for children (issued if first time)
+3. **Receive service:** assessment, TT vaccine/supplements, or child vaccine per schedule
+4. **Book return date** for next prenatal/follow-up/vaccine as advised
+
+---
+
+## Extras
+
+- **Free medical consultations** at RHU/BHS Mon–Fri 8AM–5PM (center schedules vary) — useful alongside prenatal
+- **Mother's classes / Buntis Congress** — schedule via RHU/BHS midwives (often at RHU or barangay hall, especially in Poblacion, San Eugenio, Dulao clusters)
+
+**Contact:** RHU Aringay via Municipal Hall, Marcos Ave, Poblacion — (072) 607-9531 ask for MHO/RHU — BHS via your barangay hall (24 barangays)
+
+**References:** DOH EPI; RHU Aringay / DOH Ilocos Region; aringay.gov.ph

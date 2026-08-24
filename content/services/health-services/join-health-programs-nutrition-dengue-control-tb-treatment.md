@@ -1,81 +1,76 @@
-# Join Health Programs — Lapu-Lapu City (Nutrition, Dengue Control, TB Treatment)
+# Health Programs — Nutrition, Dengue Control & TB-DOTS — Municipality of Aringay
 
-Below are city-led and national programs you can join through your **Barangay Health Center** and the **City Health Office (CHO)**.
+Join **LGU Aringay (RHU/MHO) + DOH** programs via your **Barangay Health Station (BHS)** and **RHU, Municipal Hall Compound, Poblacion**.
 
 ---
 
 ## 1) Nutrition Programs
 
-**What’s offered**
+**What's offered**
 
-- Supplementary feeding for day-care children.
-- Community nutrition activities such as breastfeeding promotion, growth monitoring, and health education.
-- Special events during Nutrition Month (July) and city-wide wellness programs.
+- **Supplementary feeding** for daycare / Child Development Center children (DSWD/MSWDO + RHU)
+- **Growth monitoring, breastfeeding promotion, micronutrient supplementation**
+- **Nutrition Month (July)** and **Pabasa sa Nutrisyon** barangay sessions led by **Barangay Nutrition Scholars (BNS)** and MNAO
 
 **Who can join**
 
-- Day-care children and families identified by barangays or CSWD.
-- Residents may also take part in open city nutrition events.
+- Daycare children & families identified by **MSWDO/BNS** per barangay
+- Open barangay nutrition events for parents
 
 **How to join**
 
-1. Visit your **Barangay Health Center** or ask the **Barangay Nutrition Scholar (BNS)** about ongoing feeding programs.
-2. Join community activities and city-wide nutrition events announced by the **City Health Office (CHO)** or City Information Office.
+1. Visit your **BHS / Barangay Hall** → ask **BNS** about feeding/nutrition schedule (Poblacion, San Eugenio, Dulao clusters have regular schedules)
+2. Attend community activities and RHU announcements (Municipal Hall bulletin, `facebook.com/betteraringay`)
 
-**Cost:** Free for eligible beneficiaries.
+**Cost:** Free for eligible beneficiaries
 
 ---
 
-## 2) Dengue Control Programs
+## 2) Dengue Control — 4S + Aksyon Barangay Kontra Dengue (ABKD)
 
-**What’s offered**
+**What's offered**
 
-- Community clean-up drives under the **ABKD (Aksyon Barangay Kontra Dengue)** program.
-- Daily “4 o’clock habit” — searching and destroying mosquito breeding sites.
-- Misting, fogging, and entomological surveys led by the CHO.
-- Information campaigns during Dengue Awareness Month and rainy season.
+- **4 o'clock habit** — daily search & destroy of mosquito breeding sites
+- **ABKD clean-up drives** (barangay + MENRO + RHU) — drainage, canals, beach litter (Dulao/Samara)
+- **Misting/fogging + larval surveys** by RHU/MHO and Provincial Health Office when indices rise
+- Campaigns during **Dengue Awareness Month (June)** and rainy season
 
 **How to join**
 
-1. Take part in barangay clean-up drives and follow the **4S strategy** (Search & Destroy, Self-protection, Seek early consultation, Support fogging/misting).
-2. Cooperate when CHO teams conduct **misting** or **house-to-house larval checks**.
+- Join barangay clean-ups; practice **4S**: **Search & Destroy, Self-protection, Seek early consultation, Support fogging**
+- Cooperate when RHU teams do **house-to-house larval checks** or **misting**
 
-**Cost:** Free; no registration needed.
+**Cost:** Free; no registration — just participate and keep surroundings clean. Report stagnant water to BHS/Barangay Hall.
 
 ---
 
-## 3) TB Treatment (NTP TB-DOTS)
+## 3) TB Treatment — National TB Program (NTP) via TB-DOTS
 
-**What’s offered**
+**What's offered**
 
-- Free consultations, diagnostic tests, and full course of anti-TB medicines under the **National Tuberculosis Program (NTP)**.
-- Supervised treatment through the **Directly Observed Therapy Short-course (DOTS)** approach.
+- **Free** consultation, sputum test (GeneXpert referral via La Union), and **full course anti-TB medicines** under **DOH NTP**
+- **Directly Observed Treatment Short-course (DOTS)** — supervised intake at BHS/RHU
 
 **Where**
 
-- Lapu-Lapu City Health Office (DOTS facility) and affiliated barangay health centers.
+- **RHU Aringay (DOTS facility)** + **24 BHS** as treatment partners
 
 **How to join**
 
-1. Go to your **Barangay Health Center** or the **CHO DOTS Clinic** for TB screening.
-2. If diagnosed, you will be enrolled in DOTS — treatment and medicines are given for free.
-3. Regular follow-up visits will be scheduled to monitor your recovery.
+1. Go to **BHS or RHU** for TB screening if cough ≥2 weeks, weight loss, night sweats, fever
+2. If diagnosed, enrolled in **DOTS** — medicines free; treatment partner assigned (often BHS midwife + treatment partner)
+3. Regular follow-up visits scheduled; **adherence critical** — DOH monitors.
 
-**Cost:** Free for all TB patients.
-
----
-
-## Contact & Updates
-
-- **Barangay Health Centers** — First point of contact for nutrition, dengue, and TB programs.
-- **Lapu-Lapu City Health Office (CHO)** — Main office for program schedules and services.
-- **City Information Office** — Posts updates on city-wide campaigns and health events.
+**Cost:** Free for all TB patients
 
 ---
 
-### Quick Tips
+## Contact — Aringay
 
-- Bring a **valid ID** and your **barangay health record** (if you already have one).
-- For TB symptoms (cough for 2 weeks or more, weight loss, night sweats), seek screening immediately.
-- Join community clean-up drives and practice the 4 o’clock habit to prevent dengue.
-- Attend barangay nutrition events and feeding programs for your children’s growth and wellness.
+- **RHU / MHO Aringay** — Municipal Hall Compound, Marcos Ave, Poblacion — (072) 607-9531
+- **BHS** — 24 barangays, via Barangay Hall — ask for **BNS / BHW**
+- **MSWDO / MENRO / MDRRMO** — for feeding / clean-up coordination
+
+**Tips:** Bring valid ID + health record/ITR; for TB symptoms seek screening **immediately**; practice 4 o'clock habit daily; attend barangay feeding events for child growth.
+
+Reference: DOH NTP, DOH Ilocos Region, RHU Aringay

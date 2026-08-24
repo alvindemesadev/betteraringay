@@ -1,132 +1,126 @@
-# Renew Permits and Pay Local Business Taxes — Lapu-Lapu City
+# Renew Business Permits and Pay Local Business Taxes — Municipality of Aringay
 
-Use this guide to renew your **Mayor’s/Business Permit** and **Local Business Taxes (LBT)** with the City Government.
+Renew your **Mayor's / Business Permit** and **Local Business Taxes (LBT)** every January at the **Business One-Stop Shop (BOSS)** in the Municipal Hall, Marcos Avenue, Poblacion, Aringay. For all businesses operating in the 24 barangays — sole proprietors, partnerships, corporations, cooperatives, and online sellers with a physical presence in Aringay.
+
+---
+
+## What You Need to Know
+
+| Information         | Details                                                                                                                                                                                             |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Where**           | BPLO / BOSS, Municipal Hall, Marcos Avenue, Poblacion, Aringay 2503                                                                                                                                 |
+| **When**            | **Annual renewal: Jan 1–20** (per Local Government Code). Quarterly option: Q1 Jan 20, Q2 Apr 20, Q3 Jul 20, Q4 Oct 20. Aringay BOSS usually runs first 2 weeks of January at the quadrangle/plaza. |
+| **Cost**            | LBT based on prior-year gross sales/receipts per Revenue Code + regulatory fees (sanitary, garbage, fire, zoning, signage). Receipt from Municipal Treasurer's Office (MTO).                        |
+| **Processing Time** | Same day if complete (assessment → payment → releasing); inspections if needed within 1–3 days                                                                                                      |
 
 ---
 
 ## Who Must Renew
 
-- All businesses operating in Lapu-Lapu City: **sole proprietors, partnerships, corporations, NGOs, cooperatives, online sellers with local presence**, and professionals with a business office.
-- Renewal applies to **main office and each branch**.
+- All businesses with a **Mayor's/Business Permit** in Aringay — main office **and each branch/stall** (public market stalls count as branch).
+- Includes **public market vendors, resorts/beach stalls in Dulao/Samara, agri-fishery traders, transport operators**, and professionals with a business address.
 
 ---
 
-## When to Renew
-
-- **Annual renewal period:** **First 20 days of January** (as provided in the Local Government Code).
-- **Payments:** either **annually** or **quarterly** (1st qtr due during renewal; next quarters usually due on or before the **20th** day of April, July, and October).
-- Late filings incur **surcharges and interest**.
-
-> Tip: Prepare your documents **by December** so you can file in the first week of January.
-
----
-
-## What You’ll Need (Typical Requirements)
+## What You'll Need
 
 **Business Information**
 
-- Prior year **Mayor’s/Business Permit** and **Official Receipts**.
-- **DTI/SEC/CDA** registration (whichever applies).
-- **BIR** Certificate of Registration (Form 2303) and **Authority to Print** (if any).
-- **Contract of Lease** / **Tax Declaration** / **Certificate of Occupancy** (as applicable).
-- **Valid IDs** of owner or authorized representative (+ **SPA** or Board Resolution if not the owner).
+- Prior year **Mayor's/Business Permit** + Official Receipts
+- **DTI/SEC/CDA** registration
+- **BIR** Certificate (Form 2303) + valid IDs (owner or authorized rep with SPA/Board Resolution)
+- **Lease Contract** / **Tax Declaration** / **Certificate of Occupancy** (if owned/renovated)
 
-**Revenue/Tax Basis**
+**Revenue Basis**
 
-- **Sworn Declaration of Gross Sales/Receipts** for the **preceding year** (or **Audited FS**/**Accountant-certified** FS if applicable).
-- **Inventory list** (selected industries) and **machine/equipment list** (if applicable).
+- **Sworn Declaration of Gross Sales/Receipts** for preceding year **or** Audited FS (if required by size)
+- **Equipment/inventory/vehicle list** if you have delivery trucks, heavy equipment, or warehousing
 
-**Regulatory Clearances** (city/BPLO may route you during assessment)
+**Regulatory Clearances (BPLO routes during assessment)**
 
-- **Barangay Clearance** (for business).
-- **Sanitary Permit** (Health).
-- **Fire Safety Inspection Certificate (FSIC)** (BFP).
-- **Environmental/Disposal Permits** (if required by the nature of business).
-- **Zoning/Occupancy** updates if there were renovations or transfers.
+- **Barangay Business Clearance** (from your barangay hall)
+- **Sanitary Permit** (RHU/MHO)
+- **Fire Safety Inspection Certificate (FSIC)** (BFP Aringay)
+- **Zoning/MENRO** if changed layout or added signage/machines
 
-> Note: Actual required clearances vary by business **nature, size, and risk category**. Bring your **previous permits** to guide the checker.
+> Tip: Bring your **old permits folder** — evaluator uses it to copy previous classification and spot changes.
 
 ---
 
-## Step-by-Step (Walk-In)
+## Step-by-Step (Walk-In at BOSS)
 
 1. **Pre-screening / Queuing**
-   - Go to the **Business One-Stop Shop (BOSS)** during the renewal period.
-   - Get your queue number; submit last year’s permit and basic IDs for pre-check.
+   Go to **BOSS, Municipal Hall quadrangle** early January. Get queue number; submit last year's permit + ID for pre-check.
 
 2. **Application & Declaration**
-   - Fill out the **Business Renewal Form** and the **Sworn Declaration of Gross Sales/Receipts**.
-   - Declare any **changes** (business name, nature, capitalization, number of employees, floor area, machinery, location).
+   Fill **Business Renewal Form** + **Sworn Declaration of Gross Sales**. Declare changes: name, nature, capitalization, employees, floor area, equipment.
 
 3. **Regulatory Routing**
-   - The evaluator will route you (if needed) to: **Barangay**, **Sanitary/Health**, **Zoning**, **Environmental**, and **BFP** for assessment/inspection.
+   Staff routes to **Barangay → MHO → MPDC/Zoning → MENRO → BFP** as applicable. Many tables are co-located at BOSS; inspections scheduled if needed.
 
 4. **Assessment**
-   - **BPLO** computes **Local Business Tax**, **Regulatory Fees**, and **Other Charges** (signage, garbage, sanitary, etc.).
-   - Choose **Annual** or **Quarterly** payment.
+   BPLO computes **LBT**, **Mayor's Permit Fee**, **Garbage**, **Sanitary**, **Fire**, **Signage** etc. Choose **Annual** or **Quarterly** payment.
 
 5. **Payment**
-   - Pay at the **City Treasurer’s** cashier or accredited payment options (if available).
-   - Receive **Official Receipt(s)**.
+   Pay at **Municipal Treasurer's Office (MTO)** cashier inside Municipal Hall. Get **Official Receipts**.
 
 6. **Releasing**
-   - Claim your **Mayor’s/Business Permit**, **FSIC/Sanitary**, **Stickers/Plates**, and **Occupational permits** (if issued with the pack).
-   - Post the permit and required notices **conspicuously** at your place of business.
+   Claim **Mayor's/Business Permit**, **FSIC**, **Sanitary Permit**, **Stickers/Plates**. Post permit **conspicuously** in your establishment (required).
 
 ---
 
-## (If Available) Online / Hybrid Filing
+## Online / Hybrid (If Announced)
 
-- Some transactions may be done via the city’s **online business portal** or **pre-assessment** channels (if announced).
-- Prepare **scanned PDFs** of your documents (clear, legible; 1 file per requirement).
-- After online assessment, proceed to **payment** (e-payment or onsite) and **permit releasing** per instructions.
-
-> If unsure, confirm at the start of the renewal period if **online pre-filing** is open for your business type.
+Aringay is primarily walk-in. If the LGU opens online pre-assessment (often via `aringay.gov.ph` or Facebook), prepare scanned PDFs (1 file per requirement). After assessment, pay e-payment or onsite per instructions. Check `facebook.com/betteraringay` in late December.
 
 ---
 
-## How Your Dues Are Computed
+## How Dues Are Computed
 
-- **Local Business Tax (LBT):** Based on **gross sales/receipts** of the prior year and your **business category** (rates and brackets per local tax ordinance).
-- **Regulatory/Service Fees:** e.g., **Sanitary**, **Zoning**, **Garbage**, **Signage**, **Occupational**, and **Fire** fees/clearances.
-- **Other Assessments:** May apply for **delivery vehicles**, **storage/stockrooms**, **machinery**, or **special permits**.
+- **LBT:** By gross sales brackets per **Aringay Revenue Code** (sangguniang bayan ordinance) and business category.
+- **Regulatory/Service Fees:** per clearance (health, fire, garbage, signage, occupational permit).
+- **Other:** delivery vehicle fees, storage, machinery, special permits — as assessed.
 
 ---
 
 ## Penalties for Late Renewal
 
-- **Surcharge** (commonly up to **25%** of the tax due) **plus** **monthly interest** (commonly up to **2% per month**) until fully paid, subject to the city’s ordinance caps.
-- Possible **closure/tagging** and **inspection findings** if you continue operations without a valid permit.
+- **Surcharge up to 25%** + **monthly interest up to 2%** until paid (capped per ordinance) if after Jan 20.
+- Operating without valid permit may lead to **closure order** after notice.
 
 ---
 
 ## Changes You Must Report
 
-- **Change of address**, **trade/brand name**, **ownership structure**, **business activity**, **floor area**, **machinery**, or **employee count**.
-- **Temporary closure** or **permanent cessation**:
-  - File a **Business Retirement** to stop tax accruals.
-  - Submit **inventory and last day of operation**, settle any **delinquencies**, and surrender old permits/plates.
+- Change of **address, barangay, trade name, ownership, activity, floor area, machinery, employee count**
+- **Temporary closure / retirement:** File **Business Retirement** at BPLO to stop tax accrual — submit inventory, last day, settle dues, surrender permits.
 
 ---
 
-## Practical Tips
+## Practical Tips for Aringay Businesses
 
-- **Bring copies** of everything (and soft copies on a USB/phone).
-- If you had **renovations** or **new equipment**, bring **permits/invoices**—it speeds up Zoning/BFP review.
-- **Coordinate early** with your **lessor** for building-related documents (occupancy, fire compliance).
-- For **food/health businesses**, schedule **Sanitary inspections** early; ensure staff have updated **health cards** if required.
-- Keep a **renewal calendar**: Q2/Q3/Q4 due dates if you chose quarterly.
+- Prepare by **December** — barangay halls are less crowded then.
+- Coastal businesses (Dulao, Samara, San Eugenio beach resorts) — arrange **Sanitary + MENRO** early.
+- Market vendors (Poblacion Public Market) — coordinate with **Market Administrator** for stall lease docs.
+- Bring **photocopies + USB/phone soft copies** of all docs.
 
 ---
 
-## Quick Checklist (Print This)
+## Quick Checklist
 
-- [ ] Last year’s **Mayor’s/Business Permit** and **ORs**
-- [ ] **DTI/SEC/CDA** registration & **BIR 2303**
-- [ ] **Lease/Occupancy**/Tax Declaration (as applicable)
-- [ ] **Sworn Gross Sales/Receipts** (prev. year) / **FS**
-- [ ] **Barangay Clearance** (business)
-- [ ] **Sanitary** & **FSIC** (and other routed clearances)
-- [ ] **Valid ID** / **SPA or Board Resolution** for representative
-- [ ] Payment (cash/card) for **taxes & fees**
-- [ ] Collect **Permit**, **Stickers/Plates**, post on site
+- [ ] Last year's **Mayor's/Business Permit** + ORs
+- [ ] **DTI/SEC/CDA** + **BIR 2303**
+- [ ] **Lease/Occupancy** docs
+- [ ] **Sworn Gross Sales** / FS
+- [ ] **Barangay Business Clearance** + **Sanitary** + **FSIC**
+- [ ] **Valid ID** / SPA
+- [ ] Payment, then collect **Permit + stickers** and post on site
+
+---
+
+## Contact
+
+**BPLO / Business Permit and Licensing Office — Municipality of Aringay**
+Municipal Hall, Marcos Avenue, Poblacion, Aringay, La Union 2503
+**Phone:** (072) 607-9531 / 607-1986 **Email:** lgu_aringay@yahoo.com
+**Hours:** Mon–Fri 8AM–5PM, BOSS extended hours in January (watch FB announcements)
