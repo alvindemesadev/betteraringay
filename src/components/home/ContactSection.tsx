@@ -51,9 +51,9 @@ export default function ContactSection() {
           </CardContent>
         </Card>
 
-        <Card className="text-center">
+        <Card className="text-center hover:shadow-lg hover:border-primary/20 transition group">
           <CardContent className="p-6">
-            <div className="mx-auto w-12 h-12 rounded-full bg-green-50 text-green-600 flex items-center justify-center mb-3">
+            <div className="mx-auto w-12 h-12 rounded-full bg-green-50 text-green-600 flex items-center justify-center mb-3 group-hover:bg-green-600 group-hover:text-white transition">
               <MapPin className="h-6 w-6" />
             </div>
             <div className="font-semibold">Address</div>
