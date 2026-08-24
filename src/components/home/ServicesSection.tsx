@@ -27,9 +27,11 @@ interface Category {
 export default function ServicesSection({
   title,
   description,
+  showViewAll = true,
 }: {
   title?: string;
   description?: string;
+  showViewAll?: boolean;
 }) {
   const { t } = useTranslation();
 
@@ -67,11 +69,15 @@ export default function ServicesSection({
           </Link>
         ))}
       </div>
-      <div className="mt-8 text-center">
-        <Button asChild variant="outline" className="rounded-full">
-          <Link to="/services">View All Services <ArrowRight className="ml-1.5 h-4 w-4 inline" /></Link>
-        </Button>
-      </div>
+      {showViewAll && (
+        <div className="mt-8 text-center">
+          <Button asChild variant="outline" className="rounded-full">
+            <Link to="/services">
+              View All Services <ArrowRight className="ml-1.5 h-4 w-4" />
+            </Link>
+          </Button>
+        </div>
+      )}
     </Section>
   );
 }

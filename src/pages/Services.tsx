@@ -49,7 +49,7 @@ const Services: React.FC = () => {
     return (
       <>
         <SEO title="Services" description={`All services provided by the ${import.meta.env.VITE_GOVERNMENT_NAME} government.`} keywords="government services, public services, local government, civic services" />
-        <ServicesSection title="All local government services" description={`All services provided by the ${import.meta.env.VITE_GOVERNMENT_NAME} government. Find what you need for citizenship, business, education, and more.`} />
+        <ServicesSection title="All local government services" description={`All services provided by the ${import.meta.env.VITE_GOVERNMENT_NAME} government. Find what you need for citizenship, business, education, and more.`} showViewAll={false} />
       </>
     );
   }
