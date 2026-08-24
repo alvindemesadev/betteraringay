@@ -2,6 +2,7 @@ import { useTranslation } from 'react-i18next';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
 import { Link } from 'react-router';
+import { Button } from '@/components/ui/button';
 
 export default function Hero() {
   const { t } = useTranslation();
@@ -33,19 +34,19 @@ export default function Hero() {
               {t('hero.subtitle')}
             </Text>
             <div className="mt-6 flex flex-wrap gap-3">
-              <Link
-                to="/services"
-                className="inline-flex items-center gap-2 bg-white text-primary-700 font-semibold px-6 py-3 rounded-lg shadow hover:bg-gray-50 transition"
+              <Button asChild size="lg" className="bg-white text-primary hover:bg-white/90 shadow">
+                <Link to="/services">
+                  Browse Services <span aria-hidden>→</span>
+                </Link>
+              </Button>
+              <Button
+                asChild
+                variant="outline"
+                size="lg"
+                className="bg-white/10 backdrop-blur border-white/30 text-white hover:bg-white/20 hover:text-white"
               >
-                Browse Services
-                <span aria-hidden>→</span>
-              </Link>
-              <Link
-                to="/government/departments/executive"
-                className="inline-flex items-center gap-2 bg-primary-800/50 backdrop-blur border border-white/20 text-white font-semibold px-6 py-3 rounded-lg hover:bg-primary-900/50 transition"
-              >
-                Contact Us
-              </Link>
+                <Link to="/government/departments/executive">Contact Us</Link>
+              </Button>
             </div>
             <div className="mt-6 flex flex-wrap gap-2 text-xs">
               <span className="bg-white/15 backdrop-blur px-3 py-1.5 rounded-full">

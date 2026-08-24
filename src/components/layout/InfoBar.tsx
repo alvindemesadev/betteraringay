@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
+import { Banknote, Thermometer, Calendar, Clock } from 'lucide-react';
 
 export default function InfoBar() {
   const [rate, setRate] = useState('1 USD = ₱ --');
@@ -69,25 +70,19 @@ export default function InfoBar() {
       <div className="container mx-auto px-4">
         <div className="info-bar-inner" aria-live="polite" aria-atomic="false">
           <div className="info-bar-item" aria-label="Exchange rates">
-            <i className="bi bi-currency-exchange" aria-hidden="true" />
+            <Banknote className="h-3.5 w-3.5 text-yellow-300" aria-hidden="true" />
             <span>{rate}</span>
           </div>
-          <div
-            className="info-bar-item info-bar-weather"
-            aria-label="Aringay weather"
-          >
-            <i className="bi bi-thermometer-half" aria-hidden="true" />
+          <div className="info-bar-item info-bar-weather" aria-label="Aringay weather">
+            <Thermometer className="h-3.5 w-3.5 text-yellow-300" aria-hidden="true" />
             <span>Aringay</span>
             <span className="font-semibold">{temp}</span>
           </div>
-          <div
-            className="info-bar-item info-bar-datetime"
-            aria-label="Philippine Date and Time"
-          >
-            <i className="bi bi-calendar3" aria-hidden="true" />
+          <div className="info-bar-item info-bar-datetime" aria-label="Philippine Date and Time">
+            <Calendar className="h-3.5 w-3.5 text-yellow-300" aria-hidden="true" />
             <span>{dateStr}</span>
             <span className="hidden sm:inline mx-1 opacity-50">•</span>
-            <i className="bi bi-clock" aria-hidden="true" />
+            <Clock className="h-3.5 w-3.5 text-yellow-300" aria-hidden="true" />
             <span>{timeStr}</span>
             <span className="opacity-75 ml-1">PHT</span>
           </div>

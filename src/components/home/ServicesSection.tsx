@@ -3,7 +3,9 @@ import * as LucideIcons from 'lucide-react';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
 import { useTranslation } from '../../hooks/useTranslation';
-import { Card, CardContent } from '@bettergov/kapwa/card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
+import { Button } from '@/components/ui/button';
 import { Link } from 'react-router';
 
 import { serviceCategories } from '../../data/yamlLoader';
@@ -48,30 +50,26 @@ export default function ServicesSection({
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
         {displayedCategories.map(category => (
-          <Card
-            key={category.slug}
-            hoverable
-            className="border-t-4 border-primary-500"
-          >
-            <Link
-              to={`/services/${category.slug}`}
-              className="mt-auto text-primary-600 hover:text-primary-700 font-medium transition-colors inline-flex items-center"
-            >
-              <CardContent className="flex flex-col h-full p-6">
-                <div className="flex gap-2">
-                  <div className="bg-primary-100 text-primary-600 p-3 rounded-md mb-4 self-start">
-                    {getIcon(category.icon)}
-                  </div>
-
-                  <h3 className="text-lg font-semibold mb-4 text-gray-900 self-center">
-                    {category.category}
-                  </h3>
-                </div>
-                <Text className="text-gray-800">{category.description}</Text>
+          <Link key={category.slug} to={`/services/${category.slug}`} className="block h-full">
+            <Card className="border-t-4 border-primary h-full hover:shadow-lg hover:-translate-y-1 transition-all duration-200">
+              <CardHeader className="flex flex-row items-center gap-3 space-y-0 pb-3">
+                <div className="bg-primary/10 text-primary p-2.5 rounded-lg">{getIcon(category.icon)}</div>
+                <CardTitle className="text-base leading-tight">{category.category}</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <p className="text-sm text-muted-foreground line-clamp-3 leading-relaxed">{category.description}</p>
+                <Badge variant="secondary" className="mt-3 font-normal">
+                  {category.category}
+                </Badge>
               </CardContent>
-            </Link>
-          </Card>
+            </Card>
+          </Link>
         ))}
+      </div>
+      <div className="mt-8 text-center">
+        <Button asChild variant="outline" className="rounded-full">
+          <Link to="/services">View All Services →</Link>
+        </Button>
       </div>
     </Section>
   );

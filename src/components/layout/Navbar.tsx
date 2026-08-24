@@ -6,6 +6,7 @@ import { Link } from 'react-router';
 import { useTranslation } from 'react-i18next';
 import { LANGUAGES } from '../../i18n/languages';
 import { isMeilisearchEnabled } from '../../lib/meilisearch';
+import { Button } from '@/components/ui/button';
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -70,18 +71,16 @@ const Navbar: React.FC = () => {
             </a>
             <div className="hidden md:flex items-center gap-1">
               {(['en', 'fil', 'ilo'] as LanguageType[]).map(code => (
-                <button
+                <Button
                   key={code}
+                  size="sm"
+                  variant={i18n.language === code ? 'default' : 'outline'}
                   onClick={() => changeLanguage(code)}
-                  className={`text-xs font-semibold px-2.5 py-1 rounded border transition ${
-                    i18n.language === code
-                      ? 'bg-primary-600 text-white border-primary-600'
-                      : 'bg-white text-gray-700 border-gray-300 hover:border-primary-600 hover:text-primary-600'
-                  }`}
+                  className="h-7 px-2.5 text-xs"
                   aria-label={`Switch to ${LANGUAGES[code].nativeName}`}
                 >
                   {code.toUpperCase()}
-                </button>
+                </Button>
               ))}
             </div>
           </div>
@@ -171,17 +170,15 @@ const Navbar: React.FC = () => {
 
           {/* Mobile menu button */}
           <div className="lg:hidden flex items-center">
-            <button
+            <Button
+              variant="ghost"
+              size="icon"
               onClick={toggleMenu}
-              className="inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-primary-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-primary-500"
+              aria-label="Toggle Navigation"
+              aria-expanded={isOpen}
             >
-              <span className="sr-only">Open main menu</span>
-              {isOpen ? (
-                <X className="block h-6 w-6" aria-hidden="true" />
-              ) : (
-                <Menu className="block h-6 w-6" aria-hidden="true" />
-              )}
-            </button>
+              {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+            </Button>
           </div>
         </div>
       </div>
@@ -250,24 +247,22 @@ const Navbar: React.FC = () => {
           >
             Sitemap
           </Link>
-          <div className="px-4 py-3 border-t border-gray-200">
+          <div className="px-4 py-3 border-t border-border">
             <div className="flex items-center gap-1">
-              <Globe className="h-5 w-5 text-gray-700 mr-2" />
+              <Globe className="h-5 w-5 text-muted-foreground mr-2" />
               {(['en', 'fil', 'ilo'] as LanguageType[]).map(code => (
-                <button
+                <Button
                   key={code}
+                  size="sm"
+                  variant={i18n.language === code ? 'default' : 'outline'}
                   onClick={() => {
                     changeLanguage(code);
                     closeMenu();
                   }}
-                  className={`text-sm font-semibold px-3 py-1.5 rounded border transition ${
-                    i18n.language === code
-                      ? 'bg-primary-600 text-white border-primary-600'
-                      : 'bg-white text-gray-700 border-gray-300 hover:border-primary-600 hover:text-primary-600'
-                  }`}
+                  className="h-8 px-3"
                 >
                   {code.toUpperCase()}
-                </button>
+                </Button>
               ))}
             </div>
           </div>

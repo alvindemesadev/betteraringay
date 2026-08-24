@@ -2,6 +2,8 @@ import { Link } from 'react-router';
 import { Users, MapPinned, Building2, Ruler } from 'lucide-react';
 import Section from '../ui/Section';
 import { Heading } from '../ui/Heading';
+import { Card, CardContent } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
 
 export default function StatsSection() {
   const stats = [
@@ -59,20 +61,20 @@ export default function StatsSection() {
         {stats.map(s => {
           const Icon = s.icon;
           return (
-            <Link key={s.label} to={s.href} className="group">
-              <div className="bg-white rounded-xl border border-gray-200 p-6 text-center hover:shadow-lg hover:border-primary-200 transition h-full">
-                <div className="mx-auto w-12 h-12 rounded-full bg-primary-50 text-primary-600 flex items-center justify-center mb-3 group-hover:bg-primary-600 group-hover:text-white transition">
-                  <Icon className="h-6 w-6" />
-                </div>
-                <div className="text-2xl font-bold text-gray-900">
-                  {s.value}
-                </div>
-                <div className="text-xs text-gray-500">{s.sub}</div>
-                <div className="text-sm font-medium text-gray-700 mt-1">
-                  {s.label}
-                </div>
-                <div className="text-xs text-gray-400 mt-1">{s.note}</div>
-              </div>
+            <Link key={s.label} to={s.href} className="group block h-full">
+              <Card className="h-full text-center hover:shadow-lg hover:border-primary/30 hover:-translate-y-0.5 transition-all">
+                <CardContent className="p-6">
+                  <div className="mx-auto w-12 h-12 rounded-full bg-primary/10 text-primary flex items-center justify-center mb-3 group-hover:bg-primary group-hover:text-primary-foreground transition">
+                    <Icon className="h-6 w-6" />
+                  </div>
+                  <div className="text-2xl font-bold tracking-tight">{s.value}</div>
+                  <Badge variant="secondary" className="mt-1 text-xs font-normal">
+                    {s.sub}
+                  </Badge>
+                  <div className="text-sm font-medium mt-2">{s.label}</div>
+                  <div className="text-xs text-muted-foreground mt-1">{s.note}</div>
+                </CardContent>
+              </Card>
             </Link>
           );
         })}

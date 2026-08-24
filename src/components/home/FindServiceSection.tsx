@@ -1,57 +1,50 @@
 import { Link } from 'react-router';
 import { Search } from 'lucide-react';
+import { Button } from '@/components/ui/button';
+import { Input } from '@/components/ui/input';
+import { Badge } from '@/components/ui/badge';
 
 const popular = [
-  {
-    label: 'Barangay Clearance',
-    href: '/services/business/apply-for-barangay-clearance-and-mayors-business-permits',
-  },
-  {
-    label: 'Business Permit',
-    href: '/services/business/apply-for-barangay-clearance-and-mayors-business-permits',
-  },
-  {
-    label: 'RHU Check-up',
-    href: '/services/health-services/get-free-check-ups-basic-medicines-and-vaccines',
-  },
-  {
-    label: 'Senior/PWD Aid',
-    href: '/services/social-welfare/apply-for-senior-citizen-solo-parent-or-pwd-assistance',
-  },
-  {
-    label: 'Agriculture Seeds',
-    href: '/services/agriculture-fisheries/ask-for-free-seeds-seedlings-fertilizers-or-fingerlings',
-  },
+  { label: 'Barangay Clearance', href: '/services/business/apply-for-barangay-clearance-and-mayors-business-permits' },
+  { label: 'Business Permit', href: '/services/business/apply-for-barangay-clearance-and-mayors-business-permits' },
+  { label: 'RHU Check-up', href: '/services/health-services/get-free-check-ups-basic-medicines-and-vaccines' },
+  { label: 'Senior/PWD Aid', href: '/services/social-welfare/apply-for-senior-citizen-solo-parent-or-pwd-assistance' },
+  { label: 'Agriculture Seeds', href: '/services/agriculture-fisheries/ask-for-free-seeds-seedlings-fertilizers-or-fingerlings' },
 ];
 
 export default function FindServiceSection() {
   return (
-    <section className="bg-white border-y border-gray-200 py-8">
+    <section className="bg-card border-y py-8">
       <div className="container mx-auto px-4">
-        <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
-          <div>
-            <h2 className="text-xl font-bold text-gray-900">Find a Service</h2>
-            <p className="text-sm text-gray-600">
-              Popular:{' '}
-              {popular.map((p, i) => (
-                <span key={p.label}>
-                  <Link
-                    to={p.href}
-                    className="text-primary-600 hover:text-primary-700 hover:underline"
-                  >
+        <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-6">
+          <div className="flex-1">
+            <h2 className="text-xl font-bold tracking-tight">Find a Service</h2>
+            <div className="mt-3 flex flex-wrap gap-2">
+              {popular.map(p => (
+                <Link key={p.label} to={p.href}>
+                  <Badge variant="secondary" className="font-normal hover:bg-primary hover:text-primary-foreground transition cursor-pointer">
                     {p.label}
-                  </Link>
-                  {i < popular.length - 1 ? ' • ' : ''}
-                </span>
+                  </Badge>
+                </Link>
               ))}
-            </p>
+            </div>
           </div>
-          <Link
-            to="/services"
-            className="inline-flex items-center gap-2 bg-primary-600 text-white px-5 py-2.5 rounded-lg font-semibold hover:bg-primary-700 transition"
-          >
-            <Search className="h-4 w-4" /> Browse All Services
-          </Link>
+          <div className="flex flex-col sm:flex-row gap-3 w-full lg:w-auto lg:min-w-[420px]">
+            <div className="relative flex-1">
+              <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+              <Input placeholder="Search services..." className="pl-9" aria-label="Search services" onKeyDown={e => {
+                if (e.key === 'Enter') {
+                  const v = (e.target as HTMLInputElement).value.trim();
+                  if (v) window.location.href = `/services?q=${encodeURIComponent(v)}`;
+                }
+              }} />
+            </div>
+            <Button asChild className="shrink-0">
+              <Link to="/services">
+                <Search className="h-4 w-4" /> Browse All
+              </Link>
+            </Button>
+          </div>
         </div>
       </div>
     </section>

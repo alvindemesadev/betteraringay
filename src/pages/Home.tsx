@@ -9,6 +9,7 @@ import UpdatesSection from '../components/home/UpdatesSection';
 import LeadershipSection from '../components/home/LeadershipSection';
 import ContactSection from '../components/home/ContactSection';
 import QuizSection from '../components/home/QuizSection';
+import FAQSection from '../components/home/FAQSection';
 import SEO from '../components/SEO';
 
 const Home: React.FC = () => {
@@ -30,6 +31,7 @@ const Home: React.FC = () => {
         <LeadershipSection />
         <ContactSection />
         <QuizSection />
+        <FAQSection />
         <GovernmentActivitySection />
       </main>
     </>
