@@ -138,9 +138,6 @@ const Navbar: React.FC = () => {
 
           {/* Desktop right actions */}
           <div className="hidden lg:flex items-center gap-2 shrink-0">
-            <Button asChild variant="ghost" size="sm">
-              <Link to="/government/departments/executive">Contact</Link>
-            </Button>
             {isMeilisearchEnabled && (
               <Button asChild variant="outline" size="sm">
                 <Link to="/search">
