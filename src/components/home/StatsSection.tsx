@@ -67,7 +67,7 @@ export default function StatsSection() {
                   <div className="mx-auto w-12 h-12 rounded-full bg-primary/10 text-primary flex items-center justify-center mb-3 group-hover:bg-primary group-hover:text-primary-foreground transition">
                     <Icon className="h-6 w-6" />
                   </div>
-                  <div className="text-2xl font-bold tracking-tight">{s.value}</div>
+                  <div className="text-2xl font-bold tracking-tight font-mono">{s.value}</div>
                   <Badge variant="secondary" className="mt-1 text-xs font-normal">
                     {s.sub}
                   </Badge>
