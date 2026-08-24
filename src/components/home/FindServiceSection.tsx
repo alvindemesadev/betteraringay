@@ -18,7 +18,7 @@ export default function FindServiceSection() {
       <div className="container mx-auto px-4">
         <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-6">
           <div className="flex-1">
-            <h2 className="text-xl font-bold tracking-tight">Find a Service</h2>
+            <h2 className="text-xl font-bold tracking-tight font-['Figtree']">Find a Service</h2>
             <div className="mt-3 flex flex-wrap gap-2">
               {popular.map(p => (
                 <Link key={p.label} to={p.href}>

@@ -75,7 +75,7 @@ export default function Quiz() {
               <Badge variant="secondary" className="bg-white/15 text-white border-white/20 hover:bg-white/20">
                 🧩 ARINGAY QUIZ
               </Badge>
-              <h1 className="text-2xl font-bold tracking-tight mt-2">How well do you know Aringay?</h1>
+              <h1 className="text-2xl font-bold tracking-tight mt-2 font-['Figtree']">How well do you know Aringay?</h1>
               <p className="text-primary-foreground/80 text-sm mt-1">24 barangays • 50,380 citizens • Coastal gateway to La Union</p>
             </div>
 
@@ -128,7 +128,7 @@ export default function Quiz() {
             ) : (
               <CardContent className="p-6 text-center">
                 <div className="text-5xl mb-3">{pct === 100 ? '🏆' : pct >= 75 ? '🎉' : pct >= 50 ? '👍' : '📚'}</div>
-                <h2 className="text-2xl font-bold tracking-tight">You scored {score}/{total} ({pct}%)</h2>
+                <h2 className="text-2xl font-bold tracking-tight font-['Figtree']">You scored {score}/{total} ({pct}%)</h2>
                 <p className="text-muted-foreground mt-2">{verdict}</p>
 
                 <Card className="mt-6 bg-muted/50">
