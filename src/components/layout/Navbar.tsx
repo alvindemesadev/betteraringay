@@ -1,12 +1,5 @@
 import React, { useState } from 'react';
-import {
-  X,
-  Menu,
-  ChevronDown,
-  Globe,
-  Search,
-  CheckCircle2,
-} from 'lucide-react';
+import { X, Menu, ChevronDown, Globe, Search } from 'lucide-react';
 import { mainNavigation } from '../../data/navigation';
 import type { LanguageType } from '../../types/index';
 import { Link } from 'react-router';
@@ -97,12 +90,11 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
-              <CheckCircle2 className="h-12 w-12 mr-3" />
-              {/* <img
-                src="/ph-logo.webp"
-                alt="Philippines Coat of Arms"
-                className="h-12 w-12 mr-3"
-              /> */}
+              <img
+                src="/aringay-seal.png"
+                alt="Seal of the Municipality of Aringay, La Union"
+                className="h-12 w-12 mr-3 object-contain bg-white rounded-full shadow-sm"
+              />
               <div>
                 <div className="text-black font-bold">
                   {import.meta.env.VITE_GOVERNMENT_NAME}
