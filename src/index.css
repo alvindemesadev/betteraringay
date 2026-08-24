@@ -107,6 +107,9 @@
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --spacing-fluid-md: clamp(20px, 1.25rem + 1vw, 32px);
+  --spacing-fluid-lg: clamp(32px, 2rem + 2vw, 56px);
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
 }
