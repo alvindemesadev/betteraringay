@@ -15,7 +15,7 @@ export default function FAQSection() {
       <Heading level={2} className="text-center">Frequently Asked Questions</Heading>
       <p className="text-center text-muted-foreground mb-8">Quick answers for Aringay residents and visitors</p>
       <div className="max-w-3xl mx-auto">
-        <Accordion>
+        <Accordion className="rounded-xl border bg-card px-6 py-2">
           {faqs.map((f, i) => (
             <AccordionItem key={i} value={`item-${i}`}>
               <AccordionTrigger>{f.q}</AccordionTrigger>
