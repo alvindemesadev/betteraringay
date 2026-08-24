@@ -6,6 +6,7 @@ import { type TypographyTheme } from './typographyThemes';
 import { type ReactNode, type HTMLAttributes } from 'react';
 import { Link } from 'react-router';
 import { TableWithToggle } from './TableWithToggle';
+import { TableHeader, TableBody, TableRow, TableHead, TableCell } from '@/components/ui/table';
 
 // Extended theme type to include dynamic component keys
 type ExtendedTheme = TypographyTheme & {
@@ -276,35 +277,26 @@ export function createMarkdownComponents(theme: TypographyTheme) {
     ),
     table: ({
       children,
-      ...props
     }: { children?: ReactNode } & HTMLAttributes<HTMLTableElement>) => (
-      <TableWithToggle theme={theme} {...props}>
-        {children}
-      </TableWithToggle>
+      <TableWithToggle>{children}</TableWithToggle>
     ),
     thead: ({
       children,
       ...props
     }: { children?: ReactNode } & HTMLAttributes<HTMLTableSectionElement>) => (
-      <thead className={theme.components.thead} {...props}>
-        {children}
-      </thead>
+      <TableHeader {...props}>{children}</TableHeader>
     ),
     tbody: ({
       children,
       ...props
     }: { children?: ReactNode } & HTMLAttributes<HTMLTableSectionElement>) => (
-      <tbody className={theme.components.tbody} {...props}>
-        {children}
-      </tbody>
+      <TableBody {...props}>{children}</TableBody>
     ),
     tr: ({
       children,
       ...props
     }: { children?: ReactNode } & HTMLAttributes<HTMLTableRowElement>) => (
-      <tr className={theme.components.tr} {...props}>
-        {children}
-      </tr>
+      <TableRow {...props}>{children}</TableRow>
     ),
     th: ({
       children,
@@ -312,17 +304,13 @@ export function createMarkdownComponents(theme: TypographyTheme) {
     }: {
       children?: ReactNode;
     } & HTMLAttributes<HTMLTableHeaderCellElement>) => (
-      <th className={theme.components.th} {...props}>
-        {children}
-      </th>
+      <TableHead {...props}>{children}</TableHead>
     ),
     td: ({
       children,
       ...props
     }: { children?: ReactNode } & HTMLAttributes<HTMLTableDataCellElement>) => (
-      <td className={theme.components.td} {...props}>
-        {children}
-      </td>
+      <TableCell {...props}>{children}</TableCell>
     ),
   };
 }

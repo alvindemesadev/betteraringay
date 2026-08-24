@@ -1,16 +1,17 @@
 /**
- * Table component with view toggle functionality
+ * Table component with view toggle functionality — shadcn per DESIGN.md
  */
 
 import {
   type ReactNode,
-  type HTMLAttributes,
   useState,
   useMemo,
   useEffect,
 } from 'react';
-import { Table, List } from 'lucide-react';
-import { type TypographyTheme } from './typographyThemes';
+import { Table as TableIcon, List } from 'lucide-react';
+import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs';
+import { Card, CardContent } from '@/components/ui/card';
+import { Table } from '@/components/ui/table';
 
 // Helper functions to extract text from React children
 const extractTextFromChildren = (children: ReactNode): string[] => {
@@ -75,15 +76,8 @@ const extractRowsFromChildren = (
   return rows;
 };
 
-// Custom Table Component with view toggle
-export const TableWithToggle = ({
-  children,
-  theme,
-  ...props
-}: {
-  children: ReactNode;
-  theme: TypographyTheme;
-} & HTMLAttributes<HTMLTableElement>) => {
+// Custom Table Component with view toggle — shadcn Button + Table + Card
+export const TableWithToggle = ({ children }: { children: ReactNode }) => {
   const [viewMode, setViewMode] = useState<'table' | 'list'>('table');
   const [isMobile, setIsMobile] = useState(false);
 
@@ -93,22 +87,13 @@ export const TableWithToggle = ({
       setIsMobile(window.innerWidth < 640); // sm breakpoint
     };
 
-    // Check on mount
     checkScreenSize();
-
-    // Listen for resize events
     window.addEventListener('resize', checkScreenSize);
-
     return () => window.removeEventListener('resize', checkScreenSize);
   }, []);
 
-  // Set default view based on screen size
   useEffect(() => {
-    if (isMobile) {
-      setViewMode('list');
-    } else {
-      setViewMode('table');
-    }
+    setViewMode(isMobile ? 'list' : 'table');
   }, [isMobile]);
 
   // Extract table data for list view
@@ -118,7 +103,6 @@ export const TableWithToggle = ({
     const rows: Array<Record<string, string>> = [];
     const headers: string[] = [];
 
-    // Parse the table structure from children
     const processTableElement = (element: ReactNode): void => {
       if (
         typeof element === 'object' &&
@@ -130,7 +114,6 @@ export const TableWithToggle = ({
           key?: string;
         };
 
-        // Check by key first (for thead/tbody elements)
         if (elementProps.key?.includes('thead')) {
           const headerCells = extractTextFromChildren(
             elementProps.props?.children
@@ -170,7 +153,6 @@ export const TableWithToggle = ({
             rows.push(row);
           }
         } else {
-          // Recursively process children
           if (elementProps.props?.children) {
             if (Array.isArray(elementProps.props.children)) {
               elementProps.props.children.forEach(child => {
@@ -190,7 +172,6 @@ export const TableWithToggle = ({
       processTableElement(children);
     }
 
-    // Map row data to headers
     const mappedRows = rows.map(row => {
       const mappedRow: Record<string, string> = {};
       headers.forEach((header, index) => {
@@ -203,92 +184,47 @@ export const TableWithToggle = ({
   }, [children, viewMode]);
 
   return (
-    <div className="-mx-4 sm:mx-0 mb-6">
-      {/* View Toggle Buttons */}
-      <div className="flex justify-end mb-4 gap-2 px-4 sm:px-0">
-        <button
-          onClick={() => setViewMode('table')}
-          className={`px-3 py-2 text-sm font-medium rounded-md transition-colors flex items-center gap-2 ${
-            viewMode === 'table'
-              ? 'bg-blue-600 text-white'
-              : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-          }`}
-        >
-          <Table size={16} />
-          Table
-        </button>
-        <button
-          onClick={() => setViewMode('list')}
-          className={`px-3 py-2 text-sm font-medium rounded-md transition-colors flex items-center gap-2 ${
-            viewMode === 'list'
-              ? 'bg-blue-600 text-white'
-              : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-          }`}
-        >
-          <List size={16} />
-          List
-        </button>
-      </div>
+    <div className="my-6">
+      {/* View toggle — shadcn Tabs */}
+      <Tabs value={viewMode} onValueChange={v => setViewMode(v as 'table' | 'list')}>
+        <TabsList className="mb-3">
+          <TabsTrigger value="table" className="gap-2">
+            <TableIcon className="h-4 w-4" /> Table
+          </TabsTrigger>
+          <TabsTrigger value="list" className="gap-2">
+            <List className="h-4 w-4" /> List
+          </TabsTrigger>
+        </TabsList>
+      </Tabs>
 
       {viewMode === 'table' ? (
-        <div className="overflow-x-auto">
-          <table
-            className={`${theme.components.table} sticky-table`}
-            style={
-              {
-                '--first-col-width': '12rem',
-              } as React.CSSProperties
-            }
-            {...props}
-          >
-            {children}
-          </table>
+        <div className="rounded-xl border overflow-hidden">
+          <Table>{children}</Table>
         </div>
       ) : (
-        <div className="space-y-4 px-4 sm:px-0">
+        <div className="space-y-4">
           {tableData?.rows && tableData.rows.length > 0 ? (
             tableData.rows.map((row, index) => (
-              <div
-                key={index}
-                className="bg-white border border-gray-200 rounded-lg p-4 shadow-sm mx-2 sm:mx-0"
-              >
-                <div className="grid gap-3">
+              <Card key={index}>
+                <CardContent className="p-4 grid gap-2">
                   {tableData.headers.map((header, headerIndex) => (
                     <div
                       key={headerIndex}
-                      className="flex flex-col sm:flex-row sm:items-center"
+                      className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-4"
                     >
-                      <div className="font-semibold text-gray-800 text-sm mb-1 sm:mb-0 sm:w-1/3 sm:pr-4">
-                        {header}:
+                      <div className="font-semibold text-sm sm:w-1/3">
+                        {header}
                       </div>
-                      <div className="text-gray-700 text-sm sm:w-2/3">
-                        {row[header] || ''}
+                      <div className="text-sm text-muted-foreground sm:w-2/3">
+                        {row[header] || '—'}
                       </div>
                     </div>
                   ))}
-                </div>
-              </div>
+                </CardContent>
+              </Card>
             ))
           ) : (
-            <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mx-2 sm:mx-0">
-              <div className="text-yellow-800 text-sm">
-                <strong>Debug Info:</strong>
-                <br />
-                Headers: {JSON.stringify(tableData?.headers || [])}
-                <br />
-                Rows: {JSON.stringify(tableData?.rows || [])}
-                <br />
-                Children type: {typeof children}
-                <br />
-                Children is array: {Array.isArray(children) ? 'Yes' : 'No'}
-                <br />
-                Children length:{' '}
-                {Array.isArray(children) ? children.length : 'N/A'}
-                <br />
-                <br />
-                <strong>Check browser console for detailed parsing logs</strong>
-              </div>
-            </div>
+            <p className="text-sm text-muted-foreground">No rows to display.</p>
           )}
         </div>
       )}
