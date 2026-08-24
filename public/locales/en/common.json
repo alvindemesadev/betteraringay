@@ -34,6 +34,8 @@
   "navbar": {
     "government": "Government",
     "services": "Services",
+    "transparency": "Transparency",
+    "contact": "Contact",
     "hotlines": "Hotlines",
     "holidays": "Holidays"
   },
