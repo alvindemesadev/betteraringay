@@ -1,4 +1,4 @@
-import { useState } from 'react';
+﻿import { useState } from 'react';
 import { Link } from 'react-router';
 import SEO from '../components/SEO';
 import { Card, CardContent } from '@/components/ui/card';
@@ -121,7 +121,7 @@ export default function Quiz() {
 
                 <div className="mt-6 flex justify-end">
                   {showResult && (
-                    <Button onClick={next}>{idx + 1 >= total ? 'See Results →' : 'Next →'}</Button>
+                    <Button onClick={next}>{idx + 1 >= total ? 'See Results' : 'Next'}</Button>
                   )}
                 </div>
               </CardContent>

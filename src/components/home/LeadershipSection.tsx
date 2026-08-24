@@ -1,7 +1,7 @@
-import Section from '../ui/Section';
+﻿import Section from '../ui/Section';
 import { Heading } from '../ui/Heading';
 import { Link } from 'react-router';
-import { Mail, Phone } from 'lucide-react';
+import { Mail, Phone, ArrowRight } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Avatar, AvatarImage, AvatarFallback } from '@/components/ui/avatar';
 import { Badge } from '@/components/ui/badge';
@@ -16,7 +16,7 @@ export default function LeadershipSection() {
           <p className="text-muted-foreground mt-2">Elected officials, 2025–2028 term — 100% precincts (COMELEC)</p>
         </div>
         <Button asChild variant="outline" className="hidden md:inline-flex">
-          <Link to="/government/departments/executive">View All Officials →</Link>
+          <Link to="/government/departments/executive">View All Officials <ArrowRight className="ml-1.5 h-4 w-4 inline" /></Link>
         </Button>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

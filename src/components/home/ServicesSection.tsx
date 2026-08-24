@@ -1,5 +1,6 @@
-import Section from '../ui/Section';
+﻿import Section from '../ui/Section';
 import * as LucideIcons from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
 import { useTranslation } from '../../hooks/useTranslation';
@@ -68,7 +69,7 @@ export default function ServicesSection({
       </div>
       <div className="mt-8 text-center">
         <Button asChild variant="outline" className="rounded-full">
-          <Link to="/services">View All Services →</Link>
+          <Link to="/services">View All Services <ArrowRight className="ml-1.5 h-4 w-4 inline" /></Link>
         </Button>
       </div>
     </Section>

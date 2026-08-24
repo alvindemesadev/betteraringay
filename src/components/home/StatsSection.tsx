@@ -1,5 +1,5 @@
-import { Link } from 'react-router';
-import { Users, MapPinned, Building2, Ruler } from 'lucide-react';
+﻿import { Link } from 'react-router';
+import { Users, MapPinned, Building2, Ruler, ArrowRight } from 'lucide-react';
 import Section from '../ui/Section';
 import { Heading } from '../ui/Heading';
 import { Card, CardContent } from '@/components/ui/card';
@@ -54,7 +54,7 @@ export default function StatsSection() {
           to="/government/departments/barangays"
           className="text-primary-600 hover:text-primary-700 font-medium"
         >
-          View 24 Barangays →
+          View 24 Barangays <ArrowRight className="ml-1 h-4 w-4 inline" />
         </Link>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">

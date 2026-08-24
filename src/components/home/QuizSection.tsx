@@ -1,4 +1,5 @@
-import { Link } from 'react-router';
+﻿import { Link } from 'react-router';
+import { ArrowRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 
@@ -15,7 +16,7 @@ export default function QuizSection() {
             Test your knowledge of Aringay’s 24 barangays, 1741 history, Kilawen Festival, Aringay River, and Lingayen Gulf heritage.
           </p>
           <Button asChild size="lg" className="mt-6 bg-white text-[#0a2a7a] hover:bg-white/90 shadow">
-            <Link to="/quiz">Take the Quiz →</Link>
+            <Link to="/quiz">Take the Quiz <ArrowRight className="ml-1.5 h-4 w-4 inline" /></Link>
           </Button>
           <p className="text-blue-200 text-xs mt-3">8 questions • 2 minutes • Instant score + share</p>
         </div>

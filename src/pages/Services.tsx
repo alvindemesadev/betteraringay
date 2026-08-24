@@ -1,4 +1,4 @@
-import Section from '../components/ui/Section';
+﻿import Section from '../components/ui/Section';
 import { useParams, Link, useSearchParams } from 'react-router';
 import { Heading } from '../components/ui/Heading';
 import { Text } from '../components/ui/Text';
@@ -12,7 +12,7 @@ import { Badge } from '@/components/ui/badge';
 import { Skeleton } from '@/components/ui/skeleton';
 import { Alert, AlertTitle, AlertDescription } from '@/components/ui/alert';
 import { useState, useEffect, useMemo } from 'react';
-import { AlertCircle, SearchX } from 'lucide-react';
+import { AlertCircle, SearchX, ArrowRight } from 'lucide-react';
 
 const Services: React.FC = () => {
   const { category } = useParams();
@@ -105,7 +105,7 @@ const Services: React.FC = () => {
               Try a different keyword, or browse all services.
             </p>
             <Link to="/services" className="inline-block mt-4 text-primary hover:underline text-sm font-medium">
-              Browse all services →
+              Browse all services <ArrowRight className="ml-1 h-4 w-4 inline" />
             </Link>
           </div>
         ) : (

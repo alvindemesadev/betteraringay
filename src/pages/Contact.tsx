@@ -1,4 +1,4 @@
-import { useState } from 'react';
+﻿import { useState } from 'react';
 import { Link } from 'react-router';
 import SEO from '../components/SEO';
 import Section from '../components/ui/Section';
@@ -12,7 +12,7 @@ import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
 import { Breadcrumb, BreadcrumbList, BreadcrumbItem, BreadcrumbLink, BreadcrumbPage, BreadcrumbSeparator } from '@/components/ui/breadcrumb';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from '@/components/ui/dialog';
-import { Phone, Mail, MapPin, Send, Shield, TriangleAlert, ExternalLink, Clock } from 'lucide-react';
+import { Phone, Mail, MapPin, Send, Shield, TriangleAlert, ExternalLink, Clock, ArrowRight } from 'lucide-react';
 
 const offices = [
   {
@@ -243,11 +243,11 @@ export default function Contact() {
           <div className="text-sm text-muted-foreground">
             Looking for a specific service?{' '}
             <Link to="/services" className="text-primary hover:underline font-medium">
-              Browse all services →
+              Browse all services <ArrowRight className="ml-1 h-4 w-4 inline" />
             </Link>{' '}
             or meet the officials on the{' '}
             <Link to="/government/departments/executive" className="text-primary hover:underline font-medium">
-              Executive page →
+              Executive page <ArrowRight className="ml-1 h-4 w-4 inline" />
             </Link>
           </div>
         </Section>

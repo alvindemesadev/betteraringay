@@ -1,7 +1,8 @@
-import { useTranslation } from 'react-i18next';
+﻿import { useTranslation } from 'react-i18next';
 import { Heading } from '../ui/Heading';
 import { Text } from '../ui/Text';
 import { Link } from 'react-router';
+import { ArrowRight } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 export default function Hero() {
@@ -36,7 +37,7 @@ export default function Hero() {
             <div className="mt-6 flex flex-wrap gap-3">
               <Button asChild size="lg" className="bg-white text-primary hover:bg-white/90 shadow">
                 <Link to="/services">
-                  Browse Services <span aria-hidden>→</span>
+                  Browse Services <ArrowRight className="h-4 w-4" />
                 </Link>
               </Button>
               <Button
