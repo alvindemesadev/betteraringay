@@ -1,10 +1,12 @@
 ﻿import { useState } from 'react';
 import { Link } from 'react-router';
+import { ArrowLeft, Check, X } from 'lucide-react';
 import SEO from '../components/SEO';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
+import { cn } from '@/lib/utils';
 
 type Q = { q: string; options: string[]; answer: number; fact: string };
 
@@ -66,8 +68,10 @@ export default function Quiz() {
       <SEO title="Aringay Quiz — Municipality of Aringay" description="Test your knowledge of Aringay, La Union — 24 barangays, 1741 history, Kilawen Festival, Aringay River, Centennial Tunnel, and Lingayen Gulf." keywords="Aringay quiz, La Union, barangays, Kilawen Festival, Aringay River" />
       <main className="flex-grow bg-muted/30 py-8">
         <div className="container mx-auto px-4 max-w-3xl">
-          <Button variant="ghost" size="sm" asChild>
-            <Link to="/">← Back to Home</Link>
+          <Button variant="ghost" size="sm" asChild className="-ml-2">
+            <Link to="/">
+              <ArrowLeft className="h-4 w-4" /> Back to Home
+            </Link>
           </Button>
 
           <Card className="mt-4 overflow-hidden">
@@ -96,25 +100,52 @@ export default function Quiz() {
                   {cur.options.map((opt, i) => {
                     const isPicked = picked === i;
                     const isCorrect = i === cur.answer;
+                    const revealed = showResult && isCorrect;
+                    const revealedWrong = showResult && isPicked && !isCorrect;
                     return (
-                      <Button
+                      <button
                         key={opt}
-                        variant={showResult ? (isCorrect ? 'default' : isPicked ? 'destructive' : 'outline') : 'outline'}
-                        className={`justify-start h-auto py-3 text-left font-medium ${showResult && isCorrect ? 'bg-green-600 hover:bg-green-700 border-green-600' : ''}`}
                         onClick={() => choose(i)}
                         disabled={showResult}
+                        className={cn(
+                          'flex w-full items-center gap-3 rounded-xl border px-4 py-3 text-left font-medium transition-all',
+                          !showResult &&
+                            'border-input bg-background hover:border-primary/50 hover:bg-primary/5',
+                          revealed &&
+                            'border-green-600/60 bg-green-50 text-foreground dark:border-green-800 dark:bg-green-950/30',
+                          revealedWrong &&
+                            'border-red-300 bg-red-50 dark:border-red-800 dark:bg-red-950/30',
+                          showResult && !revealed && !revealedWrong && 'border-input opacity-50',
+                        )}
                       >
-                        <span className="inline-flex items-center justify-center w-7 h-7 rounded-full bg-muted text-xs font-bold mr-3 shrink-0">{String.fromCharCode(65 + i)}</span>
-                        <span className="flex-1 text-left">{opt}</span>
-                        {showResult && isCorrect && <span className="ml-2">✓</span>}
-                        {showResult && isPicked && !isCorrect && <span className="ml-2">✗</span>}
-                      </Button>
+                        <span
+                          className={cn(
+                            'inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-xs font-bold',
+                            revealed && 'bg-green-600 text-white',
+                            revealedWrong && 'bg-red-500 text-white',
+                            !showResult && 'bg-muted',
+                            showResult && !revealed && !revealedWrong && 'bg-muted',
+                          )}
+                        >
+                          {String.fromCharCode(65 + i)}
+                        </span>
+                        <span className="flex-1">{opt}</span>
+                        {revealed && <Check className="h-5 w-5 shrink-0 text-green-600" />}
+                        {revealedWrong && <X className="h-5 w-5 shrink-0 text-red-500" />}
+                      </button>
                     );
                   })}
                 </div>
 
                 {showResult && (
-                  <div className={`mt-4 rounded-xl p-4 text-sm border ${picked === cur.answer ? 'bg-green-50 border-green-200 text-green-900 dark:bg-green-950/30 dark:text-green-200' : 'bg-amber-50 border-amber-200 text-amber-900 dark:bg-amber-950/30'}`}>
+                  <div
+                    className={cn(
+                      'mt-4 rounded-xl border p-4 text-sm leading-relaxed',
+                      picked === cur.answer
+                        ? 'border-green-200 bg-green-50 text-green-900 dark:border-green-800 dark:bg-green-950/30 dark:text-green-200'
+                        : 'border-red-200 bg-red-50 text-red-900 dark:border-red-800 dark:bg-red-950/30 dark:text-red-200',
+                    )}
+                  >
                     <strong>{picked === cur.answer ? 'Correct!' : 'Not quite.'}</strong> {cur.fact}
                   </div>
                 )}
