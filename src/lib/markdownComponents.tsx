@@ -304,13 +304,17 @@ export function createMarkdownComponents(theme: TypographyTheme) {
     }: {
       children?: ReactNode;
     } & HTMLAttributes<HTMLTableHeaderCellElement>) => (
-      <TableHead {...props}>{children}</TableHead>
+      <TableHead className="text-foreground font-semibold" {...props}>
+        {children}
+      </TableHead>
     ),
     td: ({
       children,
       ...props
     }: { children?: ReactNode } & HTMLAttributes<HTMLTableDataCellElement>) => (
-      <TableCell {...props}>{children}</TableCell>
+      <TableCell className="text-foreground" {...props}>
+        {children}
+      </TableCell>
     ),
   };
 }

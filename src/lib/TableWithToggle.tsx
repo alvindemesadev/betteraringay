@@ -199,7 +199,12 @@ export const TableWithToggle = ({ children }: { children: ReactNode }) => {
 
       {viewMode === 'table' ? (
         <div className="rounded-xl border overflow-hidden">
-          <Table>{children}</Table>
+          <Table
+            className="sticky-table"
+            style={{ '--first-col-width': '12rem' } as React.CSSProperties}
+          >
+            {children}
+          </Table>
         </div>
       ) : (
         <div className="space-y-4">
