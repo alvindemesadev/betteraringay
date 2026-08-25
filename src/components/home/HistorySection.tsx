@@ -1,10 +1,9 @@
 import Section from '../ui/Section';
 import { Heading } from '../ui/Heading';
 import { Link } from 'react-router';
-import { Card, CardContent } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
-import { ArrowRight } from 'lucide-react';
+import { ArrowRight, Sparkles, Gem } from 'lucide-react';
+import { cn } from '@/lib/utils';
 
 const timeline = [
   {
@@ -51,45 +50,71 @@ const timeline = [
 
 export default function HistorySection() {
   return (
-    <Section className="bg-white">
-      <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-8">
+    <Section className="bg-muted/30">
+      <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-10">
         <div>
           <Heading level={2}>Brief History of Aringay</Heading>
-          <p className="text-muted-foreground mt-2 max-w-2xl">Coastal river-mouth settlement to municipality — mouth of the Aringay River, Lingayen Gulf.</p>
+          <p className="text-muted-foreground mt-2 max-w-2xl">
+            From a coastal river-mouth settlement at the mouth of the Aringay
+            River, Lingayen Gulf — to the municipality of today.
+          </p>
         </div>
-        <Button asChild variant="outline" className="hidden md:inline-flex">
+        <Button asChild variant="outline" className="hidden md:inline-flex shrink-0">
           <Link to="/government/departments/history-culture">
             Full History <ArrowRight className="h-4 w-4" />
           </Link>
         </Button>
       </div>
-      <div className="relative border-l-2 border-primary/10 ml-3 md:ml-6 space-y-6">
-        {timeline.map(item => (
-          <div key={item.year} className="relative pl-8">
-            <div className="absolute -left-[9px] top-1 w-4 h-4 bg-primary rounded-full border-4 border-background shadow" />
-            <Card className="hover:shadow-md hover:border-primary/20 transition">
-              <CardContent className="p-4">
-                <div className="flex flex-wrap items-center gap-2">
-                  <Badge className="bg-primary text-primary-foreground hover:bg-primary">{item.year}</Badge>
-                  <h3 className="font-semibold tracking-tight">{item.title}</h3>
-                </div>
-                <p className="text-sm text-muted-foreground mt-2 leading-relaxed">{item.desc}</p>
-              </CardContent>
-            </Card>
+
+      {/* Editorial two-column timeline — year left, story right */}
+      <div className="max-w-4xl">
+        {timeline.map((item, i) => (
+          <div
+            key={item.year}
+            className={cn(
+              'group grid grid-cols-[72px_1fr] md:grid-cols-[110px_1fr] gap-x-4 md:gap-x-10 py-5 border-b border-border/60 hover:bg-background rounded-lg px-2 -mx-2 transition-colors',
+              i === timeline.length - 1 && 'border-b-0',
+            )}
+          >
+            <div className="text-right">
+              <span className="font-['Figtree'] font-bold text-primary text-lg md:text-2xl tracking-tight tabular-nums">
+                {item.year}
+              </span>
+            </div>
+            <div>
+              <h3 className="font-semibold tracking-tight group-hover:text-primary transition-colors">
+                {item.title}
+              </h3>
+              <p className="text-sm text-muted-foreground mt-1 leading-relaxed max-w-xl">
+                {item.desc}
+              </p>
+            </div>
           </div>
         ))}
       </div>
-      <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-4">
-        <Card className="bg-primary/5 border-primary/20">
-          <CardContent className="p-4 text-sm">
-            <strong className="text-primary">Name Origin:</strong> Folk tale of datu’s daughter <em>Aring</em> rescued as lover cried <em>“Aring, ay!”</em> — call that became Aringay.
-          </CardContent>
-        </Card>
-        <Card className="bg-amber-50 border-amber-200 dark:bg-amber-950/20">
-          <CardContent className="p-4 text-sm">
-            <strong className="text-amber-700 dark:text-amber-400">Gold Trail:</strong> Historic Aringay–Tonglo–Balatok gold trail terminus — maritime trading center for Ilocano and Pangasinense settlers.
-          </CardContent>
-        </Card>
+
+      {/* Origin facts */}
+      <div className="mt-10 grid grid-cols-1 md:grid-cols-2 gap-4 max-w-4xl">
+        <div className="flex gap-3 rounded-xl border border-primary/20 bg-primary/5 p-5">
+          <Sparkles className="h-5 w-5 text-primary shrink-0 mt-0.5" />
+          <div className="text-sm">
+            <div className="font-semibold text-primary">Name Origin</div>
+            <p className="text-muted-foreground mt-1 leading-relaxed">
+              Folk tale of a datu’s daughter, <em>Aring</em>, rescued from drowning as
+              her lover cried <em>“Aring, ay!”</em> — the call that became Aringay.
+            </p>
+          </div>
+        </div>
+        <div className="flex gap-3 rounded-xl border border-amber-200 bg-amber-50/60 p-5">
+          <Gem className="h-5 w-5 text-amber-600 shrink-0 mt-0.5" />
+          <div className="text-sm">
+            <div className="font-semibold text-amber-700">The Gold Trail</div>
+            <p className="text-muted-foreground mt-1 leading-relaxed">
+              Historic Aringay–Tonglo–Balatok gold trail terminus — a maritime
+              trading center for Ilocano and Pangasinense settlers.
+            </p>
+          </div>
+        </div>
       </div>
     </Section>
   );
